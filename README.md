@@ -1,9 +1,9 @@
 
-# Wizard Nazim 🧙‍♂️
+#Welcome!
 
-Welcome to my magical corner of GitHub!  
-Here, code meets creativity, and every project is a spellbinding adventure
-
+╔══════════════════════════════╗
+║        Wizard Nazim          ║ 
+╚══════════════════════════════╝
 ---
 
 
