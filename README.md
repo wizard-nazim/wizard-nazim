@@ -1,6 +1,5 @@
-<h3 align="center"> ![wr (6)](https://github.com/user-attachments/assets/cbe31b57-9981-4742-95f3-3836c32488c7)
+<h3 align="center"> <img width="185" height="81" alt="ban"src="https://github.com/user-attachments/assets/526cad6b-47ea-4e9b-9b21-0d353347fd16" /> </h3>
 
- </h3>
 
 ---
 
