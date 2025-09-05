@@ -1,13 +1,10 @@
-<h3 align="center">🎧 Recently Played</h3>
-<div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ytelpi2eb2ap5f53a3fihjfdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false"/>
-  </a>
-</div>
+<h3 align="center"> ![wr (6)](https://github.com/user-attachments/assets/cbe31b57-9981-4742-95f3-3836c32488c7)
+
+ </h3>
 
 ---
 
-<h3 align="center">🖥️ Languages</h3>
+<h3 align="center"> <img width="287" height="283" alt="pc" src="https://github.com/user-attachments/assets/c8dc7e13-dce8-47bd-b84d-4de91911ba19" /></h3>
 <div align="center">
 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
@@ -20,15 +17,25 @@
 
 </div>
 
----
 
-<h3 align="center">🎮 Game Engines</h3>
+
+<h3 align="center"><img width="185" height="81" alt="psx" src="https://github.com/user-attachments/assets/6e7e0eb6-0197-4cfc-8a54-c7c8b3ddb5e4" />
+</h3>
 <div align="center">
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-%231B1F23.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 </div>
+
+---
+
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ytelpi2eb2ap5f53a3fihjfdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false"/>
+  </a>
+</div>
+
 
 ---
 
