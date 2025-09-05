@@ -39,7 +39,13 @@
 
 <h3 align="center"> <img width="266" height="92" alt="stereo" src="https://github.com/user-attachments/assets/7f30a887-125f-44c4-87b9-78eef34e5c56" />
 </h3>
+<div align="center">
 
+
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/vetkat)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/yourusername)  
+
+</div>
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -65,8 +71,7 @@
 <h3 align="center">🔗 Links</h3>
 <div align="center">
 
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/vetkat)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/yourusername)  
+
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 ![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
 
