@@ -1,3 +1,16 @@
+<h3 align="center"> 
+🍀 Welcome! 🍀
+
+---
+                                                  
+                                                  
+</h3>
+
+
+                                                  
+
+
+
 <h3 align="center"> <img width="287" height="283" alt="pc" src="https://github.com/user-attachments/assets/c8dc7e13-dce8-47bd-b84d-4de91911ba19" /></h3>
 <div align="center">
 
@@ -22,7 +35,6 @@
 
 </div>
 
----
 <h3 align="center"> <img width="266" height="92" alt="stereo" src="https://github.com/user-attachments/assets/7f30a887-125f-44c4-87b9-78eef34e5c56" />
 </h3>
 
