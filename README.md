@@ -1,6 +1,6 @@
 <!-- 🌌 Animated Welcome Banner -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=14D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Lab!;Currently+Debugging+Reality.exe;Git+commit+-m+'added+more+bugs';How+do+I+centre+a+div+???;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=14D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Lab!;Currently+Debugging+Reality.exe;Git+commit+-m+'added+more+bugs';How+do+I+download0+more+RAM+?;git commit suicide" alt="Typing SVG" />
 </h2>
 
 ---
