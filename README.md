@@ -74,7 +74,7 @@ Always learning, always breaking, always rebuilding better.
   <br><br>
 
 
-### 🎧 Vibes While Coding
+### 🎧 veri gud moosik
 
 <div align="center">
   <a href="https://open.spotify.com/user/316ytelpi2eb2ap5f53a3fihjfdq">
