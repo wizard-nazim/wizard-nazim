@@ -3,9 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=14D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Lab!;Currently+Debugging+Reality.exe;Git+commit+-m+'added+more+bugs';How+do+I+download+more+RAM+?;git+commit+suicide" alt="Typing SVG" />
 </h2>
 
+
 ---
 <h3 align="center">
-  <img src="https://github.com/user-attachments/assets/c8dc7e13-dce8-47bd-b84d-4de91911ba19" width="270" height="270" alt="pc wizard"/>
+<img width="1128" height="282" alt="image" src="https://github.com/user-attachments/assets/2862b8ce-deec-4683-8025-5d51edd6f8ea" />
 </h3>
 
 ---
