@@ -26,6 +26,7 @@ Always learning, always breaking, always rebuilding better.
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core Identity](https://img.shields.io/badge/ASP.NET_Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
@@ -45,23 +46,41 @@ Always learning, always breaking, always rebuilding better.
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+
+**Game Development 🎮**
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-%234FACF3?style=for-the-badge&logo=godot-engine&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-23272A?style=for-the-badge&logo=roblox&logoColor=white)
+
 </div>
 
 ---
-### 🎨 Tools & Design
+### 🧰 Tools
 <div align="center">
-  
-  ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
-  ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-  ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-  ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-  ![FL Studio](https://img.shields.io/badge/FL%20Studio-FF7F00?style=for-the-badge&logo=fl-studio&logoColor=white)
-  
+
+**🛠️ Development**
+
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**🎨 Art**
+
+![Ableton Live](https://img.shields.io/badge/Ableton_Live-000000?style=for-the-badge&logo=ableton-live&logoColor=FF4E00)
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
 </div>
 
+
 ---
-### 🚀 GitHub Overview
+### 🔎 Overview
 <div align="center">
 
   <!-- Streak Stats - glowing orange fire on dark -->
@@ -72,20 +91,11 @@ Always learning, always breaking, always rebuilding better.
   <!-- Contribution Graph - custom dark cyan theme (reliable) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wizard-nazim&theme=react-dark&custom_title=Contribution%20Graph&bg_color=1a1b27&color=14D9FF&line=14D9FF&point=f5f7fa&area=true&hide_border=true" alt="Contribution Graph" />
   
-  <br><br>
   
-  <!-- Random Dev Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-nazim&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" />
-
-
 </div>
 
 ---
-### 🎧 veri gud moosik
+### 🎵 Spotify
 <div align="center">
   <a href="https://open.spotify.com/user/316ytelpi2eb2ap5f53a3fihjfdq">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ytelpi2eb2ap5f53a3fihjfdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212" alt="Spotify Profile" />
