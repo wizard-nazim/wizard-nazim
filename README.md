@@ -63,6 +63,9 @@ Always learning, always breaking, always rebuilding better.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wizard-nazim&bg_color=1a1b27&color=14D9FF&line=14D9FF&point=f5f7fa&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wizard-nazim&theme=dark)
+
 ---
 
 <p align="center">
