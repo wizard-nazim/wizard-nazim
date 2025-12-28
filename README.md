@@ -58,13 +58,11 @@ Always learning, always breaking, always rebuilding better.
 ### 🚀 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wizard-nazim&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats" />
+ <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=wizard-nazim&theme=dark" alt="GitHub Streak Stats" />
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wizard-nazim&bg_color=1a1b27&color=14D9FF&line=14D9FF&point=f5f7fa&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wizard-nazim&theme=dark)
 
 ---
 
