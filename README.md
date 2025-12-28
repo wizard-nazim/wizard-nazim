@@ -20,6 +20,7 @@ Always learning, always breaking, always rebuilding better.
 ---
 ### ⚙️ Tech Stack
 <div align="center">
+  
   ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
   ![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
@@ -34,12 +35,14 @@ Always learning, always breaking, always rebuilding better.
 ---
 ### 🎨 Tools & Design
 <div align="center">
+  
   ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
   ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
   ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
   ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
   ![FL Studio](https://img.shields.io/badge/FL%20Studio-FF7F00?style=for-the-badge&logo=fl-studio&logoColor=white)
+  
 </div>
 
 ---
@@ -61,8 +64,8 @@ Always learning, always breaking, always rebuilding better.
   
   <br><br>
   
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-nazim&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" />
+
 
 </div>
 
@@ -77,10 +80,11 @@ Always learning, always breaking, always rebuilding better.
 ---
 ### 🔗 Connect
 <div align="center">
+  
   [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/vetkat)
-  [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/316ytelpi2eb2ap5f53a3fihjfdq)
   [![Itch.io](https://img.shields.io/badge/Itch.io-FF0B34?style=for-the-badge&logo=itchdotio&logoColor=white)](https://wizard-nazim.itch.io)
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/wizardnazim)
+  
 </div>
 
 ---
