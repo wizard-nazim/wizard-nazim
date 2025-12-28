@@ -1,19 +1,12 @@
-<!-- 🌌 Animated Welcome Banner -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=14D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Lab!;Currently+Debugging+Reality.exe;Git+commit+-m+'added+more+bugs';How+do+I+download+more+RAM+?;git+commit+suicide" alt="Typing SVG" />
-</h2>
 
-
----
 <h3 align="center">
 <img width="1128" height="282" alt="image" src="https://github.com/user-attachments/assets/2862b8ce-deec-4683-8025-5d51edd6f8ea" />
 </h3>
 
 ---
-### 🧙‍♂️ About Me
 <div align="center">
  
-🎧 Music producer & sound designer | 🧩 Software Developer | 🎮 Game dev tinkerer  
+🧩 Software Developer | 🎮 Game dev tinkerer  
 Building stuff with code, pixels, fun, passion and a lot of chaos.  
 Always learning, always breaking, always rebuilding better.
 </div>
@@ -104,16 +97,7 @@ Always learning, always breaking, always rebuilding better.
 </div>
 
 ---
-### 🔗 Connect
-<div align="center">
-  
-  [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/vetkat)
-  [![Itch.io](https://img.shields.io/badge/Itch.io-FF0B34?style=for-the-badge&logo=itchdotio&logoColor=white)](https://wizard-nazim.itch.io)
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/wizardnazim)
-  
-</div>
-
----
+### That's it 👋🏼
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzliYTMzYTM4M2QwYmE3NjcyMWVkZTEyNTgwNWFiYTc4Y2Q0YWYyZSZjdD1n/13HgwGsXF0aiGY/giphy.gif" height="180"/><br>
   <i>“Keep committing. The code gods are watching.”</i>
