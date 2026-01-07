@@ -64,6 +64,8 @@ Always learning, always breaking, always rebuilding better.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+(Yeah, I know — listing your IDE is basically saying “I use a computer and the internet.” And yeah, GitHub too. It looks pretty at least, right?)
+
 **🎨 Art**
 
 ![Ableton Live](https://img.shields.io/badge/Ableton_Live-000000?style=for-the-badge&logo=ableton-live&logoColor=FF4E00)
