@@ -64,7 +64,12 @@ Always learning, always breaking, always rebuilding better.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&center=true&vCenter=true&width=500&lines=Listing+IDEs+is+basically+just...;%E2%80%9CYes%2C+I+use+a+computer.%E2%80%9D;It+still+looks+cool%2C+so+it+stays." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2550&pause=710&center=true&vCenter=true&width=570&lines=Listing+my+IDE+and+GitHub+is...;basically+saying:...;I+use+a+computer+and+the+internet.;BUT...;It+looks+pretty+at+least%2C+right%3F" />
+
+
+
+![Joke](https://img.shields.io/badge/Yes-I_use_a_computer-16a34a?style=for-the-badge)
+
 
 
 **🎨 Art**
