@@ -12,7 +12,7 @@ Always learning, always breaking, always rebuilding better.
 </div>
 
 ---
-### ⚙️ Tech Stack
+### ⚙️ Me Setup:
 <div align="center">
 
 **Backend 🧠**
