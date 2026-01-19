@@ -4,11 +4,26 @@
 </h3>
 
 ---
+
+
+
+
+
+---
 <div align="center">
+
+<div align="center">
+  <a href="https://github.com/wizard-nazim">
+    <img src="https://img.shields.io/badge/Hello%2C%20there!-I'm%20Nazim-blueviolet?style=for-the-badge&logo=space-awesome&logoColor=white&labelColor=2D033B" alt="Hello Badge">
+  </a>
+ 
+  &nbsp;&nbsp;
+ ![](https://komarev.com/ghpvc/?username=wizard-nazim&color=blueviolet)
  
 🧩 Software Developer | 🎮 Game dev tinkerer  
 Building stuff with code, pixels, fun, passion and a lot of chaos.  
 Always learning, always breaking, always rebuilding better.
+
 </div>
 
 ---
