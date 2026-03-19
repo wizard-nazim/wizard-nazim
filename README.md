@@ -1,96 +1,12 @@
 
-<h3 align="center">
-<img width="1128" height="282" alt="image" src="https://github.com/user-attachments/assets/2862b8ce-deec-4683-8025-5d51edd6f8ea" />
-</h3>
-
----
 <div align="center">
-
 <div align="center">
   <a href="https://github.com/wizard-nazim">
     <img src="https://img.shields.io/badge/Hello%2C%20there!-I'm%20Nazim-blueviolet?style=for-the-badge&logo=space-awesome&logoColor=white&labelColor=2D033B" alt="Hello Badge">
   </a>
- 
   &nbsp;&nbsp;
- ![](https://komarev.com/ghpvc/?username=wizard-nazim&color=blueviolet)
- 
-🧩 Software Developer | 🎮 Game dev tinkerer  
-Building stuff with code, pixels, fun, passion and a lot of chaos.  
-Always learning, always breaking, always rebuilding better.
-
-</div>
-
----
-### ⚙️ Me Setup:
-<div align="center">
-
-**Backend 🧠**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core Identity](https://img.shields.io/badge/ASP.NET_Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-
-**Frontend 🌐**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Databases 💾**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-**Game Development 🎮**
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-%234FACF3?style=for-the-badge&logo=godot-engine&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-23272A?style=for-the-badge&logo=roblox&logoColor=white)
-
-</div>
-
----
-### 🧰 Tools
-<div align="center">
-
-**🛠️ Development**
-
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2550&pause=710&center=true&vCenter=true&width=570&lines=Listing+my+IDE+and+GitHub+is...;basically+saying:...;I+use+a+computer+and+the+internet.;BUT...;It+looks+pretty+at+least%2C+right%3F" />
-
-
-
-![Joke](https://img.shields.io/badge/Yes-I_use_a_computer-16a34a?style=for-the-badge)
-
-
-
-**🎨 Art**
-
-![Ableton Live](https://img.shields.io/badge/Ableton_Live-000000?style=for-the-badge&logo=ableton-live&logoColor=FF4E00)
-![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
-</div>
-
-
----
 ### 🔎 Overview
 <div align="center">
 
