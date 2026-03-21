@@ -24,13 +24,6 @@ Some areas that naturally pull my curiosity:
 > * Infrastructure / homelab experimentation
 > * Creative technology (audio, visual tools, interactive systems)
 
----
-
-<div align="center">
-  <a href="https://open.spotify.com/user/316ytelpi2eb2ap5f53a3fihjfdq">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ytelpi2eb2ap5f53a3fihjfdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212" alt="Spotify Profile" />
-  </a>
-</div>
 
 ---
 
@@ -43,3 +36,13 @@ Some areas that naturally pull my curiosity:
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzliYTMzYTM4M2QwYmE3NjcyMWVkZTEyNTgwNWFiYTc4Y2Q0YWYyZSZjdD1n/13HgwGsXF0aiGY/giphy.gif" height="180"/><br>
   <i>“Keep committing. The code gods are watching.”</i>
 </p>
+
+---
+
+<div align="center">
+  <a href="https://open.spotify.com/user/316ytelpi2eb2ap5f53a3fihjfdq">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ytelpi2eb2ap5f53a3fihjfdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212" alt="Spotify Profile" />
+  </a>
+</div>
+
+---
