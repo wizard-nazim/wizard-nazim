@@ -1,4 +1,4 @@
-# 🏗 Things I Like Building
+# 💻 Things I Like Building
 
 I’m generally interested in building systems where **architecture and design actually matter**.
 
@@ -14,7 +14,7 @@ I enjoy projects where the goal is not only *building something*, but also **und
 
 
 
-# 📊 GitHub Stats
+# ℹ️ GitHub Stats
 
 <div align="center">
 
@@ -32,13 +32,13 @@ I enjoy projects where the goal is not only *building something*, but also **und
 
 ---
 
-# 🐍 Contribution Snake
+#  🟩 Contribution Snake
 
 ![snake gif](https://github.com/wizard-nazim/wizard-nazim/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
-### 🎵 Spotify
+### 💿 Spotify
 <div align="center">
   <a href="https://open.spotify.com/user/316ytelpi2eb2ap5f53a3fihjfdq">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ytelpi2eb2ap5f53a3fihjfdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212" alt="Spotify Profile" />
