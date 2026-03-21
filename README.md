@@ -46,7 +46,7 @@ I enjoy projects where the goal is not only *building something*, but also **und
 </div>
 
 ---
-### That's it 👋🏼
+### That's it folks 👋🏼
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzliYTMzYTM4M2QwYmE3NjcyMWVkZTEyNTgwNWFiYTc4Y2Q0YWYyZSZjdD1n/13HgwGsXF0aiGY/giphy.gif" height="180"/><br>
   <i>“Keep committing. The code gods are watching.”</i>
