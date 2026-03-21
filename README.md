@@ -12,7 +12,7 @@
 
 ---
 
-### 💻 Welcome
+### Welcome 💻 
 
 I’m generally interested in building systems where **architecture and design actually matter**. I enjoy projects where the goal is not only *building something*, 
 but also **understanding the system behind it**.
