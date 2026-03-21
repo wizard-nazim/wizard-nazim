@@ -1,3 +1,18 @@
+
+---
+
+<div align="center">
+
+
+![Nazim's GitHub stats](https://github-readme-stats.vercel.app/api?username=wizard-nazim&show_icons=true&theme=tokyonight) ||||
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-nazim&layout=compact&theme=tokyonight)
+
+
+</div>
+
+---
+
+
 # 💻 Things I Like Building
 
 I’m generally interested in building systems where **architecture and design actually matter**.
@@ -14,19 +29,7 @@ I enjoy projects where the goal is not only *building something*, but also **und
 
 
 
-# ℹ️ GitHub Stats
-
-<div align="center">
-
-![Nazim's GitHub stats](https://github-readme-stats.vercel.app/api?username=wizard-nazim&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-nazim&layout=compact&theme=tokyonight)
-
-</div>
-
 ---
-
-# 📈 Activity Graph
 
 ![Nazim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wizard-nazim&theme=tokyo-night)
 
