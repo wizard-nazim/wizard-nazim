@@ -24,7 +24,7 @@
     <td width="440" align="left" valign="top">
       <br>
       <pre><code>
-      Areas that pull my curiosity:
+      curios about:
       > System Architecture
       > Backend & APIs
       > Clean Modular
