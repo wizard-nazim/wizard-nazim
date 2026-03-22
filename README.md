@@ -18,8 +18,8 @@
       <img src="https://cdn.simpleicons.org/c/a1a1aa" height="16" title="C" />&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/python/a1a1aa" height="16" title="Python" />&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/linux/a1a1aa" height="16" title="Linux" />&nbsp;&nbsp;
-      <br><br>
-<img src="https://img.shields.io/badge/C%23-.NET-512BD4?style=flat-circle&logoColor=white" />
+         <br><br>
+         <img src="https://img.shields.io/badge/C%23-ASP.NET-512BD4?style=flat-circle&logoColor=white" />
     </td>
     <td width="440" align="left" valign="top">
       <br>
