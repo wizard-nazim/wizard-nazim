@@ -47,7 +47,7 @@
 </table>
 
 
-<table border="0" align="left">
+<table border="0" align="right">
   <tr>
     <td width="100" align="center" valign="top">
 <div align="center">
