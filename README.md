@@ -2,7 +2,7 @@
   <tr>
     <td width="260" align="center" valign="top">
       <br>
-     <img src="https://github.com/wizard-nazim.png" width="200" style="border-radius: 10px;" alt="wizard-nazim avatar" />
+     <img src="https://github.com/user-attachments/assets/481ef3b7-e3ea-4ec0-83f8-665b71679683" width="200" style="border-radius: 10px;" alt="wizard-nazim avatar" />
       <br><br>
       <strong>wizard-nazim</strong><br>
       <code>full-stack dev</code>
