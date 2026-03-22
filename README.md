@@ -19,12 +19,21 @@
       <img src="https://cdn.simpleicons.org/python/a1a1aa" height="16" title="Python" />&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/linux/a1a1aa" height="16" title="Linux" />&nbsp;&nbsp;
       <br><br>
+<img src="https://img.shields.io/badge/C%23-.NET-512BD4?style=flat-circle&logoColor=white" />
     </td>
     <td width="440" align="left" valign="top">
       <br>
-      <h1>wizard-nazim</h1>
-      <img src="https://img.shields.io/badge/C%23-.NET-27272a?style=flat-circle"/>
-      <img src="https://img.shields.io/badge/System%20Architect-27272a?style=flat-circle"/>
+      <h3 align="center">╔═════════╗<br>[ａｂｏｕｔ]<br>╚═════════╝
+        </h3>
+      <pre><code>
+      Areas that pull my curiosity:
+      > System Architecture
+      > Backend & APIs
+      > Clean Modular
+      > Infrastructure / Linux Homelab
+      > Security
+      > Creative Tech (DAWs, UX/UI)
+      </code></pre>
       <br><br>
       <div align ="center">
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-nazim&layout=compact&theme=tokyonight" />
