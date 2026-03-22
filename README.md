@@ -27,7 +27,7 @@
       curios about:
       > System Architecture
       > Backend & APIs
-      > Clean Modular Architecture
+      > Clean Modular
       > Infrastructure / Linux Homelab
       > Security (Kali, Wireshark)
       > Creative Tech (DAWs, UX/UI)
