@@ -29,7 +29,7 @@
       > Backend & APIs
       > Clean Modular
       > Infrastructure / Linux Homelab
-      > Security (Kali, Wireshark)
+      > Security (Kali, NGINX, Wireshark)
       > Creative Tech (DAWs, UX/UI)
       </code></pre>
       <br>
