@@ -23,8 +23,6 @@
     </td>
     <td width="440" align="left" valign="top">
       <br>
-      <h3 align="center">╔═════════╗<br>[ａｂｏｕｔ]<br>╚═════════╝
-        </h3>
       <pre><code>
       Areas that pull my curiosity:
       > System Architecture
@@ -34,7 +32,7 @@
       > Security
       > Creative Tech (DAWs, UX/UI)
       </code></pre>
-      <br><br>
+      <br>
       <div align ="center">
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-nazim&layout=compact&theme=tokyonight" />
       </div>
