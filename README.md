@@ -36,7 +36,7 @@
       <div align ="center">
   <!-- <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-nazim&layout=compact&theme=tokyonight" /> -->
         
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=wizard-nazim5&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=wizard-nazim&theme=dark&hide_border=false)<br/>
       </div>
         <div align="center">
         <a href="https://open.spotify.com/user/316ytelpi2eb2ap5f53a3fihjfdq">
