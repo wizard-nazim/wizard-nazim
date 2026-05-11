@@ -59,11 +59,18 @@
   </tr>
 </table>
 
+<br clear="both">
 
----
+<table border="0" align="center">
+  <tr>
+    <td width="700" align="center" valign="top">
+      <pre><code>© 2026 wizard-nazim. All rights reserved.
 
-© 2026 Nazim / wizard-nazim. All rights reserved.
+Original profile README design.
+Do not copy or reuse without permission.</code></pre>
+    </td>
+  </tr>
+</table>
 
-This README, its layout, written content, visual style, and personal branding are my original work.
-You may not copy, redistribute, or reuse this README design or content without permission.
+<!-- Original GitHub profile README by wizard-nazim | github.com/wizard-nazim -->
 
