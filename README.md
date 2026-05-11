@@ -60,3 +60,10 @@
 </table>
 
 
+---
+
+© 2026 Nazim / wizard-nazim. All rights reserved.
+
+This README, its layout, written content, visual style, and personal branding are my original work.
+You may not copy, redistribute, or reuse this README design or content without permission.
+
