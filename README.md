@@ -1,5 +1,14 @@
 <!-- Original GitHub profile README by wizard-nazim | github.com/wizard-nazim -->
 <!-- Added attribution/friction because this README has been copied before >:( -->
+<table border="0" align="center">
+  <tr>
+    <td width="700" align="center" valign="top">
+      <pre><code>Welcome to Nazim's Dev Space!
+</code></pre>
+    </td>
+  </tr>
+</table>
+<br>
 
 <table border="0" align="center">
   <tr>
