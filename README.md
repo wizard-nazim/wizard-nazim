@@ -119,46 +119,48 @@ generated from wizard-nazim's GitHub activity</code></pre>
 
 ```mermaid
 mindmap
-  root((2026 FOCUS))
+  root((DEV FOCUS))
     Backend
       ASP.NET Core
+      C# APIs
+      REST API Design
+      Entity Framework Core
+      Authentication
+      Validation
+
+    Architecture
       Clean Architecture
       Modular Monoliths
       CQRS
-      REST APIs
+      DDD-inspired Boundaries
+      MediatR
+      Vertical Slice Thinking
 
     Frontend
       React
       TypeScript
       Vite
+      API Integration
+      Component-Based UI
+
+    Workflow Systems
+      Digital Forms
+      Admin Review Flows
+      CSV Exports
+      Business Data Mapping
+      Process Automation
 
     Infrastructure
       Linux
+      GitHub Actions
+      Docker
       NGINX
-      Docker (Learning)
 
-    Data
-      Entity Framework Core
-      SQLite
-      CSV Export
-      Excel Templates
-
-    Architecture
-      MediatR
-      FluentValidation
-      Layered Design
-      Documentation First
-
-    Documentation
-      ADRs
-      API Specs
-      Diagrams
-      Feature Planning
-
-    Security
-      Input Validation
-      Secure APIs
-      Authentication
+    Creative Tech
+      UI / UX Design
+      Branding
+      Music Production
+      Video Editing
 ```
 <table border="0" align="center">
   <tr>
