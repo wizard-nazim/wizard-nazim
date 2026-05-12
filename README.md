@@ -1,5 +1,5 @@
 <!-- Original GitHub profile README by wizard-nazim | github.com/wizard-nazim -->
-<!-- Added attribution/friction because this README has been copied before. -->
+<!-- Added attribution/friction because this README has been copied before >:( -->
 
 <table border="0" align="center">
   <tr>
@@ -117,6 +117,49 @@ generated from wizard-nazim's GitHub activity</code></pre>
 
 <br clear="both">
 
+```mermaid
+mindmap
+  root((2026 FOCUS))
+    Backend
+      ASP.NET Core
+      Clean Architecture
+      Modular Monoliths
+      CQRS
+      REST APIs
+
+    Frontend
+      React
+      TypeScript
+      Vite
+
+    Infrastructure
+      Linux
+      NGINX
+      Docker (Learning)
+
+    Data
+      Entity Framework Core
+      SQLite
+      CSV Export
+      Excel Templates
+
+    Architecture
+      MediatR
+      FluentValidation
+      Layered Design
+      Documentation First
+
+    Documentation
+      ADRs
+      API Specs
+      Diagrams
+      Feature Planning
+
+    Security
+      Input Validation
+      Secure APIs
+      Authentication
+```
 <table border="0" align="center">
   <tr>
     <td width="700" align="center" valign="top">
@@ -127,5 +170,6 @@ Do not copy, redistribute, or reuse without permission.</code></pre>
     </td>
   </tr>
 </table>
+
 
 <!-- Original GitHub profile README by wizard-nazim | github.com/wizard-nazim -->
