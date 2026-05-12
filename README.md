@@ -30,14 +30,13 @@
       />
       <br><br>
       <img
-        src="https://img.shields.io/github/followers/wizard-nazim?style=flat-square&labelColor=27272a&color=18181b&label=Followers"
-        alt="wizard-nazim GitHub followers"
-      />
+  src="https://img.shields.io/github/followers/wizard-nazim.svg?style=flat-square&amp;label=Followers&amp;labelColor=27272a&amp;color=18181b&amp;logo=github"
+  alt="wizard-nazim GitHub followers"
+/>
       <img
-        src="https://img.shields.io/github/stars/wizard-nazim?style=flat-square&labelColor=27272a&color=18181b&label=Stars"
-        alt="wizard-nazim GitHub stars"
-      />
-      <br><br>
+  src="https://img.shields.io/github/stars/wizard-nazim.svg?affiliations=OWNER&amp;style=flat-square&amp;label=Stars&amp;labelColor=27272a&amp;color=18181b&amp;logo=github"
+  alt="wizard-nazim GitHub stars"
+/> <br><br>
       <img src="https://cdn.simpleicons.org/c/a1a1aa" height="16" title="C" alt="C" />&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/python/a1a1aa" height="16" title="Python" alt="Python" />&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/linux/a1a1aa" height="16" title="Linux" alt="Linux" />&nbsp;&nbsp;
