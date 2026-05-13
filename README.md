@@ -24,7 +24,7 @@
       />
       <br><br>
       <strong>wizard-nazim</strong><br>
-      <code>backend-focused full-stack dev</code>
+      <code>full-stack dev</code>
       <br><br>
       <img
         src="https://komarev.com/ghpvc/?username=wizard-nazim&style=flat-square&color=b91c1c&label=%E2%97%8F%20Views&labelColor=27272a&logo=eye&logoColor=b91c1c"
@@ -40,8 +40,8 @@
         alt="wizard-nazim GitHub stars"
       />
       <br><br>
-      <img src="https://cdn.simpleicons.org/c/a1a1aa" height="16" title="C" alt="C" />&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/python/a1a1aa" height="16" title="Python" alt="Python" />&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/dotnet/a1a1aa" height="16" title=".NET" alt=".NET" />&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/react/a1a1aa" height="16" title="React" alt="React" />&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/linux/a1a1aa" height="16" title="Linux" alt="Linux" />&nbsp;&nbsp;
       <br><br>
       <img
@@ -51,15 +51,23 @@
     </td>
     <td width="440" align="left" valign="top">
       <br>
+
 <pre><code>curious about:
 &gt; System Architecture
 &gt; Backend &amp; APIs
 &gt; Clean / Modular Architecture
 &gt; Infrastructure / Linux Homelab
 &gt; Security / Networking Tools
-&gt; Creative Tech (DAWs, UX/UI)</code></pre>
-      <br>
-      <div align="center">
+&gt; Creative Tech (DAWs, UX/UI)</code></pre>   
+<br>
+<pre><code>engineering habits:
+&gt; Build, lint &amp; test checks
+&gt; GitHub Actions automation
+&gt; CI before merge
+&gt; Docs, diagrams &amp; architecture notes
+&gt; Making projects fail loudly before production</code></pre>
+<br>
+ <div align="center">
         <!-- Top languages card intentionally disabled for now -->
         <!--
         <img
@@ -164,8 +172,10 @@ mindmap
     Infrastructure
       Linux
       GitHub Actions
+      CI / CD Pipelines
       Docker
       NGINX
+      Security Scanning
 
     Creative Tech
       UI / UX Design
