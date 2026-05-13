@@ -1,5 +1,6 @@
 <!-- Original GitHub profile README by wizard-nazim | github.com/wizard-nazim -->
 <!-- Added attribution/friction because this README has been copied before >:( -->
+
 <table border="0" align="center">
   <tr>
     <td width="700" align="center" valign="top">
@@ -8,6 +9,7 @@
     </td>
   </tr>
 </table>
+
 <br>
 
 <table border="0" align="center">
@@ -22,7 +24,7 @@
       />
       <br><br>
       <strong>wizard-nazim</strong><br>
-      <code>full-stack dev</code>
+      <code>backend-focused full-stack dev</code>
       <br><br>
       <img
         src="https://komarev.com/ghpvc/?username=wizard-nazim&style=flat-square&color=b91c1c&label=%E2%97%8F%20Views&labelColor=27272a&logo=eye&logoColor=b91c1c"
@@ -30,13 +32,14 @@
       />
       <br><br>
       <img
-  src="https://img.shields.io/github/followers/wizard-nazim.svg?style=flat-square&amp;label=Followers&amp;labelColor=27272a&amp;color=18181b&amp;logo=github"
-  alt="wizard-nazim GitHub followers"
-/>
+        src="https://img.shields.io/github/followers/wizard-nazim?style=flat-square&label=Followers&labelColor=27272a&color=18181b&logo=github"
+        alt="wizard-nazim GitHub followers"
+      />
       <img
-  src="https://img.shields.io/github/stars/wizard-nazim.svg?affiliations=OWNER&amp;style=flat-square&amp;label=Stars&amp;labelColor=27272a&amp;color=18181b&amp;logo=github"
-  alt="wizard-nazim GitHub stars"
-/> <br><br>
+        src="https://img.shields.io/github/stars/wizard-nazim?affiliations=OWNER&style=flat-square&label=Stars&labelColor=27272a&color=18181b&logo=github"
+        alt="wizard-nazim GitHub stars"
+      />
+      <br><br>
       <img src="https://cdn.simpleicons.org/c/a1a1aa" height="16" title="C" alt="C" />&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/python/a1a1aa" height="16" title="Python" alt="Python" />&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/linux/a1a1aa" height="16" title="Linux" alt="Linux" />&nbsp;&nbsp;
@@ -51,9 +54,9 @@
 <pre><code>curious about:
 &gt; System Architecture
 &gt; Backend &amp; APIs
-&gt; Clean Modular
+&gt; Clean / Modular Architecture
 &gt; Infrastructure / Linux Homelab
-&gt; Security (Kali, NGINX, Wireshark)
+&gt; Security / Networking Tools
 &gt; Creative Tech (DAWs, UX/UI)</code></pre>
       <br>
       <div align="center">
@@ -128,14 +131,6 @@ generated from wizard-nazim's GitHub activity</code></pre>
 ```mermaid
 mindmap
   root((DEV FOCUS))
-    Backend
-      ASP.NET Core
-      C# APIs
-      REST API Design
-      Entity Framework Core
-      Authentication
-      Validation
-
     Architecture
       Clean Architecture
       Modular Monoliths
@@ -143,6 +138,14 @@ mindmap
       DDD-inspired Boundaries
       MediatR
       Vertical Slice Thinking
+
+    Backend
+      ASP.NET Core
+      C# APIs
+      REST API Design
+      Entity Framework Core
+      Authentication
+      Validation
 
     Frontend
       React
@@ -170,16 +173,16 @@ mindmap
       Music Production
       Video Editing
 ```
+
 <table border="0" align="center">
   <tr>
     <td width="700" align="center" valign="top">
-      <pre><code>© 2026 wizard-nazim. All rights reserved.
+      <pre><code>© 2026 wizard-nazim
 
-Original profile README design.
-Do not copy, redistribute, or reuse without permission.</code></pre>
+Original GitHub profile README design.
+Please do not copy, redistribute, or reuse without permission.</code></pre>
     </td>
   </tr>
 </table>
-
 
 <!-- Original GitHub profile README by wizard-nazim | github.com/wizard-nazim -->
