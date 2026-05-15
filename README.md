@@ -192,6 +192,7 @@ mindmap
   </tr>
 </table>
 
+<!--
 <div align="center">
   <tr>
   <img
@@ -202,5 +203,5 @@ mindmap
   </tr>
 </div>
 <br clear="both">
-
+-->
 
