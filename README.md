@@ -1,11 +1,9 @@
 <!-- Original GitHub profile README by wizard-nazim | github.com/wizard-nazim -->
-<!-- Added attribution/friction because this README has been copied before >:( -->
 
 <table border="0" align="center">
   <tr>
     <td width="700" align="center" valign="top">
-      <pre><code>Welcome to Nazim's Dev Space!
-</code></pre>
+      <pre><code>Welcome to Nazim's Dev Space!</code></pre>
     </td>
   </tr>
 </table>
@@ -53,63 +51,48 @@
       <br>
 
 <pre><code>curious about:
-&gt; System Architecture
-&gt; Backend &amp; APIs
-&gt; Clean / Modular Architecture
-&gt; Infrastructure / Linux Homelab
-&gt; Security / Networking Tools
-&gt; Creative Tech (DAWs, UX/UI)</code></pre>   
+&gt; System Architecture &amp; Clean Boundaries
+&gt; Backend APIs &amp; Domain-Driven Design
+&gt; Infrastructure &amp; Linux Homelab
+&gt; Security &amp; Networking Tools
+&gt; Creative Tech — DAWs, UX/UI, Branding</code></pre>
 <br>
 <pre><code>engineering habits:
-&gt; Build, lint &amp; test checks
-&gt; GitHub Actions automation
-&gt; CI before merge
+&gt; Build, lint &amp; test checks on every push
+&gt; GitHub Actions automation &amp; CI before merge
 &gt; Docs, diagrams &amp; architecture notes
-&gt; Making projects fail loudly before production</code></pre>
+&gt; Projects fail loudly before production</code></pre>
 <br>
- <div align="center">
-        <!-- Top languages card intentionally disabled for now -->
-        <!--
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-nazim&layout=compact&theme=tokyonight"
-          alt="wizard-nazim top languages"
-        />
-        -->
+      <div align="center">
         <img
           src="https://github-readme-streak-stats.herokuapp.com/?user=wizard-nazim&theme=dark&hide_border=false"
           alt="wizard-nazim GitHub streak stats"
         />
       </div>
-      <br>
-      <div align="center">
-        <a href="https://open.spotify.com/user/316ytelpi2eb2ap5f53a3fihjfdq">
-          <img
-            src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ytelpi2eb2ap5f53a3fihjfdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212"
-            alt="wizard-nazim Spotify profile"
-            width="300"
-          />
-        </a>
-      </div>
     </td>
   </tr>
 </table>
+
+<!-- ═══════════════════ NOW PLAYING ═══════════════════ -->
 
 <br>
-
-<table border="0" align="right">
+<table border="0" align="center">
   <tr>
-    <td width="70" align="center" valign="top">
-      <div align="center">
+    <td width="700" align="center" valign="top">
+      <pre><code>currently listening to:</code></pre>
+      <a href="https://open.spotify.com/user/316ytelpi2eb2ap5f53a3fihjfdq">
         <img
-          src="https://media.tenor.com/5jrJ74j_INgAAAAi/dose-dosecat.gif"
-          alt="wizard-nazim side cat gif"
+          src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ytelpi2eb2ap5f53a3fihjfdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212"
+          alt="wizard-nazim Spotify now playing"
+          width="300"
         />
-      </div>
+      </a>
     </td>
   </tr>
 </table>
 
-<br clear="both">
+
+<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
 
 <table border="0" align="center">
   <tr>
@@ -134,65 +117,65 @@ generated from wizard-nazim's GitHub activity</code></pre>
   </tr>
 </table>
 
-<br clear="both">
+<br>
+
+
+<!-- ═══════════════════ TECH MINDMAP ═══════════════════ -->
 
 ```mermaid
 mindmap
   root((DEV FOCUS))
     Architecture
-      Clean Architecture
-      Modular Monoliths
-      CQRS
+      Clean / Modular
+      CQRS & Vertical Slices
       DDD-inspired Boundaries
-      MediatR
-      Vertical Slice Thinking
-
     Backend
-      ASP.NET Core
-      C# APIs
-      REST API Design
-      Entity Framework Core
-      Authentication
-      Validation
-
+      ASP.NET Core & C#
+      REST APIs & EF Core
+      Auth & Validation
     Frontend
-      React
-      TypeScript
-      Vite
-      API Integration
-      Component-Based UI
-
-    Workflow Systems
-      Digital Forms
-      Admin Review Flows
-      CSV Exports
-      Business Data Mapping
-      Process Automation
-
+      React & TypeScript
+      Vite & Component UI
     Infrastructure
-      Linux
-      GitHub Actions
-      CI / CD Pipelines
-      Docker
-      NGINX
-      Security Scanning
-
+      Linux & Docker
+      GitHub Actions & CI/CD
+      NGINX & Security
+    Workflow & Automation
+      Digital Forms & Admin Flows
+      CSV Exports & Data Mapping
     Creative Tech
-      UI / UX Design
-      Branding
+      UI/UX & Branding
       Music Production
-      Video Editing
 ```
 
+<br>
+
+
+
+
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
 <table border="0" align="center">
   <tr>
-    <td width="700" align="center" valign="top">
-      <pre><code>© 2026 wizard-nazim
-
-Original GitHub profile README design.
-Please do not copy, redistribute, or reuse without permission.</code></pre>
+    <td width="500" align="center" valign="top">
+      <pre><code>designed by wizard-nazim</code></pre>
     </td>
   </tr>
 </table>
-
 <!-- Original GitHub profile README by wizard-nazim | github.com/wizard-nazim -->
+<br>
+<!-- ═══════════════════ SILLY CATS ═══════════════════ -->
+
+<table border="0" align="right">
+  <tr>
+    <td width="70" align="center" valign="top">
+      <div align="center">
+        <img
+          src="https://media.tenor.com/5jrJ74j_INgAAAAi/dose-dosecat.gif"
+          alt="wizard-nazim side cat gif"
+        />
+      </div>
+    </td>
+  </tr>
+</table>
+<br clear="both">
+
