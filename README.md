@@ -158,14 +158,14 @@ mindmap
   <tr>
     <td width="500" align="center" valign="top">
       <pre><code>designed by wizard-nazim</code></pre>
+      <code>that's all folks!</code>
     </td>
   </tr>
 </table>
-<!-- Original GitHub profile README by wizard-nazim | github.com/wizard-nazim -->
 <br>
-<!-- ═══════════════════ SILLY CATS ═══════════════════ -->
 
 
+<!-- ═══════════════════ SILLY GIFS ═══════════════════ -->
 <table border="0" align="left">
   <tr>
     <td width="70" align="center" valign="top">
@@ -178,6 +178,7 @@ mindmap
     </td>
   </tr>
 </table>
+
 <table border="0" align="right">
   <tr>
     <td width="70" align="center" valign="top">
@@ -190,6 +191,7 @@ mindmap
     </td>
   </tr>
 </table>
+
 <div align="center">
   <tr>
   <img
