@@ -183,12 +183,22 @@ mindmap
     <td width="70" align="center" valign="top">
       <div align="center">
         <img
-          src="https://media.tenor.com/5jrJ74j_INgAAAAi/dose-dosecat.gif"
+          src="https://media.tenor.com/5jrJ74j_INgAAAAi/dose-dosecat.gi"
           alt="wizard-nazim side cat gif"
         />
       </div>
     </td>
   </tr>
 </table>
+<div align="center">
+  <tr>
+  <img
+    src="https://media.tenor.com/0EqDB9w9CkEAAAAj/tey.gif"
+    width="150"
+    alt="thats all folks"
+  />
+  </tr>
+</div>
 <br clear="both">
+
 
