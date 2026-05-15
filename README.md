@@ -165,6 +165,19 @@ mindmap
 <br>
 <!-- ═══════════════════ SILLY CATS ═══════════════════ -->
 
+
+<table border="0" align="left">
+  <tr>
+    <td width="70" align="center" valign="top">
+      <div align="center">
+        <img
+          src="https://media.tenor.com/Pq1cZiuhlEEAAAAj/rajinikanth.gif"
+          alt="Rajinikanth gif"
+        />
+      </div>
+    </td>
+  </tr>
+</table>
 <table border="0" align="right">
   <tr>
     <td width="70" align="center" valign="top">
