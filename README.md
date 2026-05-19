@@ -3,7 +3,6 @@
 <table border="0" align="center">
   <tr>
     <td width="700" align="center" valign="top">
-      <pre><code>َلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ </code></pre>
           <pre><code>Welcome to Nazim's Dev Space!</code></pre>
     </td>
   </tr>
