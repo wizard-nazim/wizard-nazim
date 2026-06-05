@@ -192,6 +192,16 @@ mindmap
   </tr>
 </table>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wizard-nazim&theme=2077)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wizard-nazim&theme=2077)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wizard-nazim&theme=2077)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wizard-nazim&theme=2077)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wizard-nazimv&theme=2077)
+
 <!--
 <div align="center">
   <tr>
