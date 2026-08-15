@@ -63,11 +63,10 @@
 &gt; Docs, diagrams &amp; architecture notes
 &gt; Projects fail loudly before production</code></pre>
 <br>
-      <div align="center">
-        <img
-          src="https://github-readme-streak-stats.herokuapp.com/?user=wizard-nazim&theme=dark&hide_border=false"
-          alt="wizard-nazim GitHub streak stats"
-        />
+<div align="center">
+<a href="https://git.io/streak-stats">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=wizard-nazim&theme=highcontrast&short_numbers=true&mode=weekly" alt="GitHub Streak" />
+ </a>
       </div>
     </td>
   </tr>
