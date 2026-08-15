@@ -79,9 +79,11 @@
   <tr>
     <td width="700" align="center" valign="top">
       <pre><code>currently listening to:</code></pre>
-<a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ytelpi2eb2ap5f53a3fihjfdq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=false">
-  </a>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ytelpi2eb2ap5f53a3fihjfdq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=false">
+</a>
+</p>
     </td>
   </tr>
 </table>
