@@ -4,16 +4,22 @@
   <tr>
     <td width="700" align="center" valign="top">
           <pre><code>Welcome to Nazim's Dev Space!</code></pre>
-       <img width="720" height="24" alt="image" src="https://github.com/user-attachments/assets/7795fb2c-d3eb-4180-807f-65a2787ed891" />
     </td>
   </tr>
 </table>
+
 <br>
+
 <table border="0" align="center">
   <tr>
     <td width="700" align="center" valign="top">
       <a href="https://desclution.vercel.app" target="_blank" rel="noopener noreferrer">
-        <img width="1600" height="520" alt="image" src="https://github.com/user-attachments/assets/49064c71-66fd-47cb-b9a8-5900b17b4914" />
+        <img
+          src="https://raw.githubusercontent.com/wizard-nazim/desclution/main/docs/readme/banner.svg"
+          alt="Desclution animated terminal-style architecture banner"
+          width="620"
+          style="border-radius: 8px; display: block; margin: 0 auto;"
+        />
       </a>
     </td>
   </tr>
@@ -24,11 +30,17 @@
 <table border="0" align="center">
   <tr>
     <td width="700" align="center" valign="top">
-      <div align="center" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border: 2px solid #22d3ee; border-radius: 12px; padding: 24px; margin: 10px auto; max-width: 660px; box-shadow: 0 0 20px rgba(34, 211, 238, 0.3), inset 0 0 20px rgba(34, 211, 238, 0.1);">
-        <pre style="color: #67e8f9; font-size: 14px; margin: 0; font-weight: bold;"><code>» My Website«</code></pre>
-        <div style="display: flex; align-items: center; justify-content: center; gap: 16px; margin-top: 16px;">
-          <img width="48" height="48" alt="Desclution favicon" src="https://raw.githubusercontent.com/wizard-nazim/desclution/refs/heads/main/src/app/icon.png" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(34, 211, 238, 0.2);" />
-          <a href="https://desclution.vercel.app" target="_blank" rel="noopener noreferrer" style="color: #67e8f9; text-decoration: none; font-weight: bold; font-family: monospace; font-size: 16px; letter-spacing: 1px; transition: all 0.3s ease; padding: 8px 16px; border: 1px solid #22d3ee; border-radius: 6px; display: inline-block; background: rgba(34, 211, 238, 0.05); hover: background rgba(34, 211, 238, 0.15);">desclution.vercel.app</a>
+      <div align="center" style="background: linear-gradient(135deg, #0f172a 0%, #111827 100%); border: 2px solid #22d3ee; border-radius: 12px; padding: 18px 20px; margin: 10px auto; max-width: 660px; box-shadow: 0 0 20px rgba(34, 211, 238, 0.2);">
+        <pre><code style="color: #67e8f9;">My Website:</code></pre>
+        <div style="display: flex; align-items: center; justify-content: center; gap: 12px; margin-top: 12px; padding: 8px 14px; border-radius: 8px; background: rgba(34, 211, 238, 0.06); border: 1px solid rgba(34, 211, 238, 0.25);">
+          <img
+            src="https://raw.githubusercontent.com/wizard-nazim/desclution/refs/heads/main/src/app/icon.png"
+            alt="Desclution favicon"
+            width="32"
+            height="32"
+            style="border-radius: 6px;"
+          />
+          <a href="https://desclution.vercel.app" target="_blank" rel="noopener noreferrer" style="color: #67e8f9; text-decoration: none; font-weight: bold; font-family: monospace;">desclution.vercel.app</a>
         </div>
       </div>
     </td>
@@ -173,18 +185,11 @@ mindmap
 <br>
 
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
-
-<div align="center" style="background: #0a0e27; border-top: 3px solid #1e293b; padding: 20px; margin-top: 40px;">
-  <pre style="color: #67e8f9; font-size: 12px; margin: 0; letter-spacing: 2px;"><code>
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@                                                                        @@
-@@  designed & crafted by → wizard-nazim                                 @@
-@@  github.com/wizard-nazim • powered by code, coffee & creativity       @@
-@@                                                                        @@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-  </code></pre>
+<div align="center" style="background: #05070d; border: 1px solid #1f2937; border-radius: 12px; padding: 18px 20px; margin-top: 20px; box-shadow: inset 0 0 0 1px rgba(103, 232, 249, 0.08);">
+  <pre style="color: #67e8f9; font-size: 11px; margin: 0; letter-spacing: 1px; line-height: 1.5;"><code>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@  designed by wizard-nazim • github.com/wizard-nazim  @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</code></pre>
 </div>
-
 <br>
 
 <!-- ═══════════════════ SILLY GIFS ═══════════════════ -->
@@ -206,7 +211,7 @@ mindmap
     <td width="70" align="center" valign="top">
       <div align="center">
         <img
-          src="https://media.tenor.com/5jrJ74j_INgAAAAi/dose-dosecat.gif"
+          src="https://media.tenor.com/5jrJ74j_INgAAAAi/dose-dosecat.gi"
           alt="wizard-nazim side cat gif"
         />
       </div>
