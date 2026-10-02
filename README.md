@@ -81,13 +81,12 @@
       <pre><code>currently listening to:</code></pre>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ytelpi2eb2ap5f53a3fihjfdq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ytelpi2eb2ap5f53a3fihjfdq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=false" alt="spotify now playing" />
 </a>
 </p>
     </td>
   </tr>
 </table>
-
 
 <!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
 
@@ -115,7 +114,6 @@ generated from wizard-nazim's GitHub activity</code></pre>
 </table>
 
 <br>
-
 
 <!-- ═══════════════════ TECH MINDMAP ═══════════════════ -->
 
@@ -147,8 +145,33 @@ mindmap
 
 <br>
 
+<!-- ═══════════════════ MY SITE ═══════════════════ -->
 
+<table border="0" align="center">
+  <tr>
+    <td width="700" align="center" valign="top">
+      <pre><code>check out my site:</code></pre>
+      <div align="center" style="background: #0f172a; border: 2px solid #22d3ee; border-radius: 12px; padding: 16px; margin: 10px auto; max-width: 660px; box-shadow: 0 0 16px rgba(34, 211, 238, 0.18);">
+        <a href="https://desclution.vercel.app" target="_blank" rel="noopener noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/wizard-nazim/desclution/main/docs/readme/banner.svg"
+            alt="Desclution animated terminal-style architecture banner"
+            width="620"
+            style="border-radius: 8px; display: block; margin: 0 auto;"
+          />
+        </a>
+        <div style="margin-top: 12px; font-family: monospace; font-size: 12px; color: #cbd5e1; letter-spacing: 0.08em; text-transform: lowercase;">
+          <code>link</code> · <code>lab</code> · <code>portfolio</code>
+        </div>
+        <div style="margin-top: 8px;">
+          <a href="https://desclution.vercel.app" style="color: #67e8f9; text-decoration: none; font-weight: bold; font-family: monospace;">[ open desclution ]</a>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
+<br>
 
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
 <table border="0" align="center">
@@ -161,8 +184,7 @@ mindmap
 </table>
 <br>
 
-
-<!-- ═══════════════════ SILLY GIFS ═══════════════════ -->
+<!-- ═══════════════════ SILLY GIFS ═════��═════════════ -->
 <table border="0" align="left">
   <tr>
     <td width="70" align="center" valign="top">
@@ -189,8 +211,6 @@ mindmap
   </tr>
 </table>
 
-
-
 <!--
 <div align="center">
   <tr>
@@ -203,4 +223,3 @@ mindmap
 </div>
 <br clear="both">
 -->
-
