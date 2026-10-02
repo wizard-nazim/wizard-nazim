@@ -14,33 +14,21 @@
   <tr>
     <td width="700" align="center" valign="top">
       <a href="https://desclution.vercel.app" target="_blank" rel="noopener noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/wizard-nazim/desclution/main/docs/readme/banner.svg"
-          alt="Desclution animated terminal-style architecture banner"
-          width="620"
-          style="border-radius: 8px; display: block; margin: 0 auto;"
-        />
+ <img width="1600" height="520" alt="image" src="https://github.com/user-attachments/assets/e5c5feb9-b1b2-4c5b-adb7-db59bf639952" />
       </a>
     </td>
   </tr>
 </table>
-
 <br>
-
 <table border="0" align="center">
   <tr>
     <td width="700" align="center" valign="top">
       <div align="center" style="background: linear-gradient(135deg, #0f172a 0%, #111827 100%); border: 2px solid #22d3ee; border-radius: 12px; padding: 18px 20px; margin: 10px auto; max-width: 660px; box-shadow: 0 0 20px rgba(34, 211, 238, 0.2);">
         <pre><code style="color: #67e8f9;">My Website:</code></pre>
         <div style="display: flex; align-items: center; justify-content: center; gap: 12px; margin-top: 12px; padding: 8px 14px; border-radius: 8px; background: rgba(34, 211, 238, 0.06); border: 1px solid rgba(34, 211, 238, 0.25);">
-          <img
-            src="https://raw.githubusercontent.com/wizard-nazim/desclution/refs/heads/main/src/app/icon.png"
-            alt="Desclution favicon"
-            width="32"
-            height="32"
-            style="border-radius: 6px;"
-          />
-          <a href="https://desclution.vercel.app" target="_blank" rel="noopener noreferrer" style="color: #67e8f9; text-decoration: none; font-weight: bold; font-family: monospace;">desclution.vercel.app</a>
+          <img width="100" height="106" alt="image" src="https://github.com/user-attachments/assets/a9b1a867-c32b-4125-92e7-d7bc9f6771b3" />
+          <br>
+          https://desclution.vercel.app/
         </div>
       </div>
     </td>
