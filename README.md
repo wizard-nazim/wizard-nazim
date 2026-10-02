@@ -4,12 +4,11 @@
   <tr>
     <td width="700" align="center" valign="top">
           <pre><code>Welcome to Nazim's Dev Space!</code></pre>
+      <img width="720" height="24" alt="image" src="https://github.com/user-attachments/assets/7795fb2c-d3eb-4180-807f-65a2787ed891" />
     </td>
   </tr>
 </table>
-
 <br>
-
 <table border="0" align="center">
   <tr>
     <td width="700" align="center" valign="top">
@@ -28,14 +27,11 @@
       <div align="center" style="background: #0f172a; border: 2px solid #22d3ee; border-radius: 12px; padding: 16px; margin: 10px auto; max-width: 660px; box-shadow: 0 0 16px rgba(34, 211, 238, 0.2);">
         <pre><code>My Website:</code></pre>
         <div style="display: flex; align-items: center; justify-content: center; gap: 12px; margin-top: 12px;">
-          <img
-            src="https://raw.githubusercontent.com/wizard-nazim/desclution/refs/heads/main/src/app/icon.png"
-            alt="Desclution favicon"
-            width="32"
-            height="32"
-            style="border-radius: 6px;"
-          />
-          <a href="https://desclution.vercel.app" target="_blank" rel="noopener noreferrer" style="color: #67e8f9; text-decoration: none; font-weight: bold; font-family: monospace;">desclution</a>
+       <img width="106" height="106" alt="image" src="https://github.com/user-attachments/assets/fc8166c6-8a6c-4f82-a8e9-26c468ab9b14" />
+        <div>
+          <img width="51" height="40" alt="image" src="https://github.com/user-attachments/assets/8ba89c14-edb0-45f3-a2a8-9b4ab7abc644" />
+  https://desclution.vercel.app/  
+        </div>
         </div>
       </div>
     </td>
