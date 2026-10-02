@@ -4,7 +4,7 @@
   <tr>
     <td width="700" align="center" valign="top">
           <pre><code>Welcome to Nazim's Dev Space!</code></pre>
-      <img width="720" height="24" alt="image" src="https://github.com/user-attachments/assets/7795fb2c-d3eb-4180-807f-65a2787ed891" />
+       <img width="720" height="24" alt="image" src="https://github.com/user-attachments/assets/7795fb2c-d3eb-4180-807f-65a2787ed891" />
     </td>
   </tr>
 </table>
@@ -24,14 +24,11 @@
 <table border="0" align="center">
   <tr>
     <td width="700" align="center" valign="top">
-      <div align="center" style="background: #0f172a; border: 2px solid #22d3ee; border-radius: 12px; padding: 16px; margin: 10px auto; max-width: 660px; box-shadow: 0 0 16px rgba(34, 211, 238, 0.2);">
-        <pre><code>My Website:</code></pre>
-        <div style="display: flex; align-items: center; justify-content: center; gap: 12px; margin-top: 12px;">
-       <img width="106" height="106" alt="image" src="https://github.com/user-attachments/assets/fc8166c6-8a6c-4f82-a8e9-26c468ab9b14" />
-        <div>
-          <img width="51" height="40" alt="image" src="https://github.com/user-attachments/assets/8ba89c14-edb0-45f3-a2a8-9b4ab7abc644" />
-  https://desclution.vercel.app/  
-        </div>
+      <div align="center" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border: 2px solid #22d3ee; border-radius: 12px; padding: 24px; margin: 10px auto; max-width: 660px; box-shadow: 0 0 20px rgba(34, 211, 238, 0.3), inset 0 0 20px rgba(34, 211, 238, 0.1);">
+        <pre style="color: #67e8f9; font-size: 14px; margin: 0; font-weight: bold;"><code>» My Website«</code></pre>
+        <div style="display: flex; align-items: center; justify-content: center; gap: 16px; margin-top: 16px;">
+          <img width="48" height="48" alt="Desclution favicon" src="https://raw.githubusercontent.com/wizard-nazim/desclution/refs/heads/main/src/app/icon.png" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(34, 211, 238, 0.2);" />
+          <a href="https://desclution.vercel.app" target="_blank" rel="noopener noreferrer" style="color: #67e8f9; text-decoration: none; font-weight: bold; font-family: monospace; font-size: 16px; letter-spacing: 1px; transition: all 0.3s ease; padding: 8px 16px; border: 1px solid #22d3ee; border-radius: 6px; display: inline-block; background: rgba(34, 211, 238, 0.05); hover: background rgba(34, 211, 238, 0.15);">desclution.vercel.app</a>
         </div>
       </div>
     </td>
@@ -176,14 +173,18 @@ mindmap
 <br>
 
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
-<table border="0" align="center">
-  <tr>
-    <td width="500" align="center" valign="top">
-      <pre><code>designed by wizard-nazim</code></pre>
-      <code>that's all folks!</code>
-    </td>
-  </tr>
-</table>
+
+<div align="center" style="background: #0a0e27; border-top: 3px solid #1e293b; padding: 20px; margin-top: 40px;">
+  <pre style="color: #67e8f9; font-size: 12px; margin: 0; letter-spacing: 2px;"><code>
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@                                                                        @@
+@@  designed & crafted by → wizard-nazim                                 @@
+@@  github.com/wizard-nazim • powered by code, coffee & creativity       @@
+@@                                                                        @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  </code></pre>
+</div>
+
 <br>
 
 <!-- ═══════════════════ SILLY GIFS ═══════════════════ -->
