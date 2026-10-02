@@ -12,6 +12,45 @@
 
 <table border="0" align="center">
   <tr>
+    <td width="700" align="center" valign="top">
+      <a href="https://desclution.vercel.app" target="_blank" rel="noopener noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/wizard-nazim/desclution/main/docs/readme/banner.svg"
+          alt="Desclution animated terminal-style architecture banner"
+          width="620"
+          style="border-radius: 8px; display: block; margin: 0 auto;"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table border="0" align="center">
+  <tr>
+    <td width="700" align="center" valign="top">
+      <div align="center" style="background: #0f172a; border: 2px solid #22d3ee; border-radius: 12px; padding: 16px; margin: 10px auto; max-width: 660px; box-shadow: 0 0 16px rgba(34, 211, 238, 0.2);">
+        <pre><code>My Website:</code></pre>
+        <div style="display: flex; align-items: center; justify-content: center; gap: 12px; margin-top: 12px;">
+          <img
+            src="https://raw.githubusercontent.com/wizard-nazim/desclution/main/docs/readme/favicon.svg"
+            alt="Desclution favicon"
+            width="32"
+            height="32"
+            style="border-radius: 6px;"
+          />
+          <a href="https://desclution.vercel.app" target="_blank" rel="noopener noreferrer" style="color: #67e8f9; text-decoration: none; font-weight: bold; font-family: monospace;">desclution</a>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table border="0" align="center">
+  <tr>
     <td width="260" align="center" valign="top">
       <br>
       <img
@@ -51,17 +90,17 @@
       <br>
 
 <pre><code>curious about:
-&gt; System Architecture &amp; Clean Boundaries
-&gt; Backend APIs &amp; Domain-Driven Design
-&gt; Infrastructure &amp; Linux Homelab
-&gt; Security &amp; Networking Tools
-&gt; Creative Tech — DAWs, UX/UI, Branding</code></pre>
+> System Architecture & Clean Boundaries
+> Backend APIs & Domain-Driven Design
+> Infrastructure & Linux Homelab
+> Security & Networking Tools
+> Creative Tech — DAWs, UX/UI, Branding</code></pre>
 <br>
 <pre><code>engineering habits:
-&gt; Build, lint &amp; test checks on every push
-&gt; GitHub Actions automation &amp; CI before merge
-&gt; Docs, diagrams &amp; architecture notes
-&gt; Projects fail loudly before production</code></pre>
+> Build, lint & test checks on every push
+> GitHub Actions automation & CI before merge
+> Docs, diagrams & architecture notes
+> Projects fail loudly before production</code></pre>
 <br>
 <div align="center">
 <a href="https://git.io/streak-stats">
@@ -81,7 +120,7 @@
       <pre><code>currently listening to:</code></pre>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ytelpi2eb2ap5f53a3fihjfdq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=false" alt="spotify now playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ytelpi2eb2ap5f53a3fihjfdq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&pro=true" />
 </a>
 </p>
     </td>
@@ -145,34 +184,6 @@ mindmap
 
 <br>
 
-<!-- ═══════════════════ MY SITE ═══════════════════ -->
-
-<table border="0" align="center">
-  <tr>
-    <td width="700" align="center" valign="top">
-      <pre><code>check out my site:</code></pre>
-      <div align="center" style="background: #0f172a; border: 2px solid #22d3ee; border-radius: 12px; padding: 16px; margin: 10px auto; max-width: 660px; box-shadow: 0 0 16px rgba(34, 211, 238, 0.18);">
-        <a href="https://desclution.vercel.app" target="_blank" rel="noopener noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/wizard-nazim/desclution/main/docs/readme/banner.svg"
-            alt="Desclution animated terminal-style architecture banner"
-            width="620"
-            style="border-radius: 8px; display: block; margin: 0 auto;"
-          />
-        </a>
-        <div style="margin-top: 12px; font-family: monospace; font-size: 12px; color: #cbd5e1; letter-spacing: 0.08em; text-transform: lowercase;">
-          <code>link</code> · <code>lab</code> · <code>portfolio</code>
-        </div>
-        <div style="margin-top: 8px;">
-          <a href="https://desclution.vercel.app" style="color: #67e8f9; text-decoration: none; font-weight: bold; font-family: monospace;">[ open desclution ]</a>
-        </div>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
 <table border="0" align="center">
   <tr>
@@ -184,7 +195,7 @@ mindmap
 </table>
 <br>
 
-<!-- ═══════════════════ SILLY GIFS ═════��═════════════ -->
+<!-- ═══════════════════ SILLY GIFS ═══════════════════ -->
 <table border="0" align="left">
   <tr>
     <td width="70" align="center" valign="top">
