@@ -15,7 +15,7 @@
     <td width="700" align="center" valign="top">
       <a href="https://desclution.vercel.app" target="_blank" rel="noopener noreferrer">
         <img
-          src="https://raw.githubusercontent.com/wizard-nazim/desclution/main/docs/readme/banner.svg"
+          src="https://raw.githubusercontent.com/wizard-nazim/desclution/refs/heads/main/docs/readme/banner.svg"
           alt="Desclution animated terminal-style architecture banner"
           width="620"
           style="border-radius: 8px; display: block; margin: 0 auto;"
@@ -34,7 +34,7 @@
         <pre><code>My Website:</code></pre>
         <div style="display: flex; align-items: center; justify-content: center; gap: 12px; margin-top: 12px;">
           <img
-            src="https://raw.githubusercontent.com/wizard-nazim/desclution/main/docs/readme/favicon.svg"
+            src="https://raw.githubusercontent.com/wizard-nazim/desclution/refs/heads/main/src/app/icon.png"
             alt="Desclution favicon"
             width="32"
             height="32"
@@ -120,7 +120,7 @@
       <pre><code>currently listening to:</code></pre>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ytelpi2eb2ap5f53a3fihjfdq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&pro=true" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ytelpi2eb2ap5f53a3fihjfdq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&pro=true" alt="Now Playing">
 </a>
 </p>
     </td>
@@ -214,7 +214,7 @@ mindmap
     <td width="70" align="center" valign="top">
       <div align="center">
         <img
-          src="https://media.tenor.com/5jrJ74j_INgAAAAi/dose-dosecat.gi"
+          src="https://media.tenor.com/5jrJ74j_INgAAAAi/dose-dosecat.gif"
           alt="wizard-nazim side cat gif"
         />
       </div>
