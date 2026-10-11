@@ -29,7 +29,7 @@
         <pre><code> • awesome website • 
 </code></pre>
         <div style="display: flex; align-items: center; justify-content: center; gap: 12px; margin-top: 12px;">
-<img width="235" height="235" alt="image" src="https://github.com/user-attachments/assets/45a65121-99ba-4458-accd-6b88b6208cc0" />
+<img width="335" height="235" alt="image" src="https://github.com/user-attachments/assets/45a65121-99ba-4458-accd-6b88b6208cc0" />
 
 
 
