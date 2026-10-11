@@ -26,10 +26,8 @@
   <tr>
     <td width="700" align="center" valign="top">
       <div align="center" style="background: #0f172a; border: 2px solid #22d3ee; border-radius: 12px; padding: 16px; margin: 10px auto; max-width: 660px; box-shadow: 0 0 16px rgba(34, 211, 238, 0.2);">
-        <pre><code> • awesome website • 
-</code></pre>
         <div style="display: flex; align-items: center; justify-content: center; gap: 12px; margin-top: 12px;">
-<img width="335" height="235" alt="image" src="https://github.com/user-attachments/assets/45a65121-99ba-4458-accd-6b88b6208cc0" />
+
 
 
 
