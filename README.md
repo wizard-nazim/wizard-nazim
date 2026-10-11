@@ -3,7 +3,10 @@
 <table border="0" align="center">
   <tr>
     <td width="700" align="center" valign="top">
-          <pre><code>Welcome to Nazim's Dev Space!</code></pre>
+          <pre>
+     <code>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ • WELCOME TO WIZARD NAZIM'S PROFILE • 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</code></pre>
     </td>
   </tr>
 </table>
