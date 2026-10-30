@@ -17,17 +17,7 @@
     <td width="700" align="center" valign="top">
       <div align="center" style="background: #0f172a; border: 2px solid #22d3ee; border-radius: 12px; padding: 16px; margin: 10px auto; max-width: 660px; box-shadow: 0 0 16px rgba(34, 211, 238, 0.2);">
         <div style="display: flex; align-items: center; justify-content: center; gap: 12px; margin-top: 12px;">
-
-
-
-
-
-
-
-
-    
-
-     
+          
       https://desclution.vercel.app/
       
   </td>
@@ -40,39 +30,19 @@
   <tr>
     <td width="260" align="center" valign="top">
       <br>
-      <img
-        src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif"
-        width="200"
-        style="border-radius: 10px;"
-        alt="wizard-nazim avatar"
-      />
-      <br><br>
-      <strong>wizard-nazim</strong><br>
-      <code>full-stack dev</code>
-      <br><br>
-      <img
-        src="https://komarev.com/ghpvc/?username=wizard-nazim&style=flat-square&color=b91c1c&label=%E2%97%8F%20Views&labelColor=27272a&logo=eye&logoColor=b91c1c"
-        alt="wizard-nazim profile views"
-      />
-      <br><br>
-      <img
-        src="https://img.shields.io/github/followers/wizard-nazim?style=flat-square&label=Followers&labelColor=27272a&color=18181b&logo=github"
-        alt="wizard-nazim GitHub followers"
-      />
-      <img
-        src="https://img.shields.io/github/stars/wizard-nazim?affiliations=OWNER&style=flat-square&label=Stars&labelColor=27272a&color=18181b&logo=github"
-        alt="wizard-nazim GitHub stars"
-      />
-      <br><br>
-      <img src="https://cdn.simpleicons.org/dotnet/a1a1aa" height="16" title=".NET" alt=".NET" />&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/react/a1a1aa" height="16" title="React" alt="React" />&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/linux/a1a1aa" height="16" title="Linux" alt="Linux" />&nbsp;&nbsp;
-      <br><br>
-      <img
-        src="https://img.shields.io/badge/C%23-ASP.NET-512BD4?style=flat-square&logoColor=white"
-        alt="C# ASP.NET"
-      />
-    </td>
+      <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="135" alt="Animated spinning Linux Tux" />
+      <br />
+      <strong>wizard-nazim</strong>
+      <br />
+      <sub><code>full-stack dev</code></sub>
+      <br /><br />
+      <img src="https://cdn.simpleicons.org/dotnet/f472b6" width="24" alt=".NET" />
+      &nbsp;
+      <img src="https://cdn.simpleicons.org/react/f472b6" width="24" alt="React" />
+      &nbsp;
+      <img src="https://cdn.simpleicons.org/linux/f472b6" width="24" alt="Linux" />
+      <br /><br />
+      <img src="https://img.shields.io/github/stars/wizard-nazim?affiliations=OWNER&style=flat-square&label=Repo%20stars&amp;logo=github&amp;logoColor=ffffff&amp;labelColor=351427&amp;color=ec4899" alt="Stars on owned repositories" />
     <td width="440" align="left" valign="top">
       <br>
 
@@ -82,12 +52,6 @@
 > Infrastructure & Linux Homelab
 > Security & Networking Tools
 > Creative Tech — DAWs, UX/UI, Branding</code></pre>
-<br>
-<pre><code>engineering habits:
-> Build, lint & test checks on every push
-> GitHub Actions automation & CI before merge
-> Docs, diagrams & architecture notes
-> Projects fail loudly before production</code></pre>
 <br>
 <div align="center">
 <a href="https://git.io/streak-stats">
@@ -139,6 +103,55 @@ generated from wizard-nazim's GitHub activity</code></pre>
   </tr>
 </table>
 
+<br>
+<div align="center">
+<br>
+<br>
+  <!-- BACKEND -->
+  <img src="https://img.shields.io/badge/01-BACKEND%20%26%20DATA-ec4899?style=for-the-badge&labelColor=18181b" alt="Backend & Data" />
+  <br>
+<br>
+  <img
+    src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql,mongodb&theme=dark"
+    alt="C#, .NET, PostgreSQL, MySQL, MongoDB"
+  />
+  <br>
+  <br>
+  <!-- FRONTEND -->
+  <img src="https://img.shields.io/badge/02-FRONTEND%20%26%20UI-ec4899?style=for-the-badge&labelColor=18181b" alt="Frontend & UI" />
+  <br>
+<br>
+  <img
+    src="https://skillicons.dev/icons?i=react,nextjs,threejs,ts,js,tailwind,html,css&theme=dark"
+    alt="React, Next.js, Three.js, TypeScript, JavaScript, Tailwind, HTML, CSS"
+  />
+<br>
+  <br>
+  <!-- INFRASTRUCTURE -->
+  <img src="https://img.shields.io/badge/03-INFRASTRUCTURE%20%26%20DEVOPS-ec4899?style=for-the-badge&labelColor=18181b" alt="Infrastructure & DevOps" />
+
+  <br>
+<br>
+  <img
+    src="https://skillicons.dev/icons?i=linux,docker,nginx,githubactions,git,github,gitlab,bash,lua,grafana&theme=dark"
+    alt="Linux, Docker, NGINX, GitHub Actions, Git, GitHub, GitLab, Bash, Lua, Grafana"
+  />
+<br>
+  <br>
+
+  <!-- CREATIVE TOOLS -->
+  <img src="https://img.shields.io/badge/04-CREATIVE%20TOOLKIT-ec4899?style=for-the-badge&labelColor=18181b" alt="Creative Toolkit" />
+
+  <br>
+<br>
+  <img
+    src="https://skillicons.dev/icons?i=figma,blender,ps,pr,ableton&theme=dark"
+    alt="Figma, Blender, Photoshop, Premiere Pro, Ableton Live"
+  />
+
+<br>
+  <br>
+</div>
 <br>
 
 <!-- ═══════════════════ TECH MINDMAP ═══════════════════ -->
@@ -206,15 +219,4 @@ mindmap
   </tr>
 </table>
 
-<!--
-<div align="center">
-  <tr>
-  <img
-    src="https://media.tenor.com/0EqDB9w9CkEAAAAj/tey.gif"
-    width="150"
-    alt="thats all folks"
-  />
-  </tr>
-</div>
-<br clear="both">
--->
+
