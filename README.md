@@ -45,30 +45,12 @@
       <img src="https://img.shields.io/github/stars/wizard-nazim?affiliations=OWNER&style=flat-square&label=Repo%20stars&amp;logo=github&amp;logoColor=ffffff&amp;labelColor=351427&amp;color=ec4899" alt="Stars on owned repositories" />
     <td width="440" align="left" valign="top">
       <br>
-
-<pre><code>curious about:
-> System Architecture & Clean Boundaries
-> Backend APIs & Domain-Driven Design
-> Infrastructure & Linux Homelab
-> Security & Networking Tools
-> Creative Tech — DAWs, UX/UI, Branding</code></pre>
-<br>
 <div align="center">
 <a href="https://git.io/streak-stats">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=wizard-nazim&theme=highcontrast&short_numbers=true&mode=weekly" alt="GitHub Streak" />
  </a>
       </div>
-    </td>
-  </tr>
-</table>
-
-<!-- ═══════════════════ NOW PLAYING ═══════════════════ -->
-
-<br>
-<table border="0" align="center">
-  <tr>
-    <td width="700" align="center" valign="top">
-      <pre><code>currently listening to:</code></pre>
+      <br>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ytelpi2eb2ap5f53a3fihjfdq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&pro=true" alt="Now Playing">
@@ -78,82 +60,21 @@
   </tr>
 </table>
 
-<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
 
-<table border="0" align="center">
-  <tr>
-    <td width="700" align="center" valign="top">
-      <pre><code>contribution snake:
-generated from wizard-nazim's GitHub activity</code></pre>
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/wizard-nazim/wizard-nazim/output/wizard-nazim-snake-dark.svg"
-        />
-        <source
-          media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/wizard-nazim/wizard-nazim/output/wizard-nazim-snake.svg"
-        />
-        <img
-          src="https://raw.githubusercontent.com/wizard-nazim/wizard-nazim/output/wizard-nazim-snake-dark.svg"
-          alt="wizard-nazim contribution snake animation"
-        />
-      </picture>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wizard-nazim/wizard-nazim/output/wizard-nazim-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wizard-nazim/wizard-nazim/output/wizard-nazim-snake.svg" />
+    <img src="https://raw.githubusercontent.com/wizard-nazim/wizard-nazim/output/wizard-nazim-snake-dark.svg" alt="Contribution graph snake animation" />
+  </picture>
+  <br />
+  <sub>Powered by commits, caffeine, and suspiciously long architecture discussions.</sub>
+</div>
 
 <br>
 <div align="center">
 <br>
-<br>
-  <!-- BACKEND -->
-  <img src="https://img.shields.io/badge/01-BACKEND%20%26%20DATA-ec4899?style=for-the-badge&labelColor=18181b" alt="Backend & Data" />
-  <br>
-<br>
-  <img
-    src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql,mongodb&theme=dark"
-    alt="C#, .NET, PostgreSQL, MySQL, MongoDB"
-  />
-  <br>
-  <br>
-  <!-- FRONTEND -->
-  <img src="https://img.shields.io/badge/02-FRONTEND%20%26%20UI-ec4899?style=for-the-badge&labelColor=18181b" alt="Frontend & UI" />
-  <br>
-<br>
-  <img
-    src="https://skillicons.dev/icons?i=react,nextjs,threejs,ts,js,tailwind,html,css&theme=dark"
-    alt="React, Next.js, Three.js, TypeScript, JavaScript, Tailwind, HTML, CSS"
-  />
-<br>
-  <br>
-  <!-- INFRASTRUCTURE -->
-  <img src="https://img.shields.io/badge/03-INFRASTRUCTURE%20%26%20DEVOPS-ec4899?style=for-the-badge&labelColor=18181b" alt="Infrastructure & DevOps" />
-
-  <br>
-<br>
-  <img
-    src="https://skillicons.dev/icons?i=linux,docker,nginx,githubactions,git,github,gitlab,bash,lua,grafana&theme=dark"
-    alt="Linux, Docker, NGINX, GitHub Actions, Git, GitHub, GitLab, Bash, Lua, Grafana"
-  />
-<br>
-  <br>
-
-  <!-- CREATIVE TOOLS -->
-  <img src="https://img.shields.io/badge/04-CREATIVE%20TOOLKIT-ec4899?style=for-the-badge&labelColor=18181b" alt="Creative Toolkit" />
-
-  <br>
-<br>
-  <img
-    src="https://skillicons.dev/icons?i=figma,blender,ps,pr,ableton&theme=dark"
-    alt="Figma, Blender, Photoshop, Premiere Pro, Ableton Live"
-  />
-
-<br>
-  <br>
-</div>
-<br>
-
+  
 <!-- ═══════════════════ TECH MINDMAP ═══════════════════ -->
 
 ```mermaid
