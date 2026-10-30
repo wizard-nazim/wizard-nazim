@@ -37,11 +37,11 @@
 <br>
 
 
-<table border="0" align="center">
+<table border="1" align="center">
   <tr>
-    <td width="260" align="center" valign="top">
+    <td width="590" align="center" valign="top">
       <br>
-      <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="135" alt="Animated spinning Linux Tux" />
+      <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="155" alt="Animated spinning Linux Tux" />
       <br />
       <strong>wizard-nazim</strong>
       <br />
@@ -54,7 +54,7 @@
       <img src="https://cdn.simpleicons.org/linux/f472b6" width="24" alt="Linux" />
       <br /><br />
       <img src="https://img.shields.io/github/stars/wizard-nazim?affiliations=OWNER&style=flat-square&label=Repo%20stars&amp;logo=github&amp;logoColor=ffffff&amp;labelColor=351427&amp;color=ec4899" alt="Stars on owned repositories" />
-    <td width="440" align="left" valign="top">
+    <td width="140" align="left" valign="top">
       <br>
       <br>
 <pre><code>curious about:
@@ -70,7 +70,7 @@
 </a>
 </p>
     </td>
-    <td width="440" align="left" valign="top">
+    <td width="240" align="left" valign="top">
       <br>
 
 <br>
