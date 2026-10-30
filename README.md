@@ -1,42 +1,3 @@
-<!-- Original GitHub profile README by wizard-nazim | github.com/wizard-nazim -->
-
-<table border="0" align="center">
-  <tr>
-    <td width="700" align="center" valign="top">
-      <a href="https://desclution.vercel.app" target="_blank" rel="noopener noreferrer">
-        <img width="1600" height="520" alt="image" src="https://github.com/user-attachments/assets/49064c71-66fd-47cb-b9a8-5900b17b4914" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table border="0" align="center">
-  <tr>
-    <td width="700" align="center" valign="top">
-      <div align="center" style="background: #0f172a; border: 2px solid #22d3ee; border-radius: 12px; padding: 16px; margin: 10px auto; max-width: 660px; box-shadow: 0 0 16px rgba(34, 211, 238, 0.2);">
-        <div style="display: flex; align-items: center; justify-content: center; gap: 12px; margin-top: 12px;">
-
-
-
-
-
-
-
-
-    
-
-     
-      https://desclution.vercel.app/
-      
-  </td>
-  </tr>
-</table>
-
-<br>
-
-
 <table border="1" align="center">
   <tr>
     <td width="590" align="center" valign="top">
@@ -89,6 +50,12 @@
   </tr>
 </table>
 
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
+<div align="center" style="background: #05070d; border: 1px solid #1f2937; border-radius: 12px; padding: 18px 20px; margin-top: 20px; box-shadow: inset 0 0 0 1px rgba(103, 232, 249, 0.08);">
+  <pre style="color: #67e8f9; font-size: 11px; margin: 0; letter-spacing: 1px; line-height: 1.5;"><code>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@  designed by wizard-nazim •  https://desclution.vercel.app/  @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</code></pre>
+</div>
 
 <div align="center">
   <picture>
@@ -132,12 +99,7 @@ mindmap
 
 <br>
 
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
-<div align="center" style="background: #05070d; border: 1px solid #1f2937; border-radius: 12px; padding: 18px 20px; margin-top: 20px; box-shadow: inset 0 0 0 1px rgba(103, 232, 249, 0.08);">
-  <pre style="color: #67e8f9; font-size: 11px; margin: 0; letter-spacing: 1px; line-height: 1.5;"><code>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@  designed by wizard-nazim • github.com/wizard-nazim  @
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</code></pre>
-</div>
+
 <br>
 
 <!-- ═══════════════════ SILLY GIFS ═══════════════════ -->
