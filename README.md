@@ -49,13 +49,34 @@
     </td>
   </tr>
 </table>
+<br>
+<!-- ═══════════════════ SILLY GIFS ═══════════════════ -->
+<table border="0" align="left">
+  <tr>
+    <td width="70" align="center" valign="top">
+      <div align="center">
+        <img
+          src="https://media.tenor.com/Pq1cZiuhlEEAAAAj/rajinikanth.gif"
+          alt="Rajinikanth gif"
+        />
+      </div>
+    </td>
+  </tr>
+</table>
 
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
-<div align="center" style="background: #05070d; border: 1px solid #1f2937; border-radius: 12px; padding: 18px 20px; margin-top: 20px; box-shadow: inset 0 0 0 1px rgba(103, 232, 249, 0.08);">
-  <pre style="color: #67e8f9; font-size: 11px; margin: 0; letter-spacing: 1px; line-height: 1.5;"><code>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@  designed by wizard-nazim •  https://desclution.vercel.app/  @
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</code></pre>
-</div>
+<table border="0" align="right">
+  <tr>
+    <td width="70" align="center" valign="top">
+      <div align="center">
+        <img
+          src="https://media.tenor.com/5jrJ74j_INgAAAAi/dose-dosecat.gif"
+          alt="wizard-nazim side cat gif"
+        />
+      </div>
+    </td>
+  </tr>
+</table>
+<br>
 
 <div align="center">
   <picture>
@@ -64,10 +85,16 @@
     <img src="https://raw.githubusercontent.com/wizard-nazim/wizard-nazim/output/wizard-nazim-snake-dark.svg" alt="Contribution graph snake animation" />
   </picture>
   <br />
-  <sub>Powered by commits, caffeine, and suspiciously long architecture discussions.</sub>
 </div>
 
 <br>
+
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
+<div align="center" style="background: #05070d; border: 1px solid #1f2937; border-radius: 12px; padding: 18px 20px; margin-top: 20px; box-shadow: inset 0 0 0 1px rgba(103, 232, 249, 0.08);">
+  <pre style="color: #67e8f9; font-size: 11px; margin: 0; letter-spacing: 1px; line-height: 1.5;"><code>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@  designed by wizard-nazim •  https://desclution.vercel.app/  @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</code></pre>
+</div>
 
 <!-- ═══════════════════ TECH MINDMAP ═══════════════════ -->
 
@@ -102,32 +129,7 @@ mindmap
 
 <br>
 
-<!-- ═══════════════════ SILLY GIFS ═══════════════════ -->
-<table border="0" align="left">
-  <tr>
-    <td width="70" align="center" valign="top">
-      <div align="center">
-        <img
-          src="https://media.tenor.com/Pq1cZiuhlEEAAAAj/rajinikanth.gif"
-          alt="Rajinikanth gif"
-        />
-      </div>
-    </td>
-  </tr>
-</table>
 
-<table border="0" align="right">
-  <tr>
-    <td width="70" align="center" valign="top">
-      <div align="center">
-        <img
-          src="https://media.tenor.com/5jrJ74j_INgAAAAi/dose-dosecat.gif"
-          alt="wizard-nazim side cat gif"
-        />
-      </div>
-    </td>
-  </tr>
-</table>
 
 <!--
 <div align="center">
