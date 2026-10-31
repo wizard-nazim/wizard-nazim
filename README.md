@@ -90,7 +90,6 @@
 
 <br>
 <table border="0" align="center">
-  <tr>
     <td width="700" align="center" valign="top">
       <pre><code>currently listening to:</code></pre>
 <p align="center">
@@ -99,14 +98,9 @@
 </a>
 </p>
     </td>
-  </tr>
-</table>
 
 <!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
-
-<table border="0" align="center">
-  <tr>
-    <td width="700" align="center" valign="top">
+  <td width="700" align="center" valign="top">
       <pre><code>contribution snake:
 generated from wizard-nazim's GitHub activity</code></pre>
       <picture>
