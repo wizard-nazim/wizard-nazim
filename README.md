@@ -193,6 +193,3 @@ mindmap
 </div>
 <br clear="both">
 -->
-
-  
-<iframe src="https://github.com/sponsors/wizard-nazim/button" title="Sponsor wizard-nazim" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
