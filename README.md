@@ -1,23 +1,37 @@
 <!-- Original GitHub profile README by wizard-nazim | github.com/wizard-nazim -->
+<!-- ═══════════════════ NOW PLAYING ═══════════════════ -->
 
-<table border="2" align="center">
-   <td width="700" align="center" valign="top">
-      <pre><code>Tools:</code></pre>
-<img src="https://skillicons.dev/icons?i=blender,ableton,obsidian&theme=dark" /> </td>
-<br />
+<table border="0" align="center">
     <td width="700" align="center" valign="top">
-      <pre><code>IDE & Other:</code></pre>
+      <pre><code>currently listening to:</code></pre>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,godot,unity&theme=dark" />
-<br /></p></td>
- <td width="700" align="center" valign="top">
-      <pre><code>Daily Driver:</code></pre>
-      <img src="https://skillicons.dev/icons?i=arch,windows&theme=dark"/>
- </td>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ytelpi2eb2ap5f53a3fihjfdq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&pro=true" alt="Now Playing">
+</a>
+</p>
+    </td>
+
+<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
+  <td width="700" align="center" valign="top">
+      <pre><code>contribution snake:
+generated from wizard-nazim's GitHub activity</code></pre>
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/wizard-nazim/wizard-nazim/output/wizard-nazim-snake-dark.svg"
+        />
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/wizard-nazim/wizard-nazim/output/wizard-nazim-snake.svg"
+        />
+        <img
+          src="https://raw.githubusercontent.com/wizard-nazim/wizard-nazim/output/wizard-nazim-snake-dark.svg"
+          alt="wizard-nazim contribution snake animation"
+        />
+      </picture>
+    </td>
+  </tr>
 </table>
-
-
-<br>
 
 <table border="0" align="center">
   <tr>
@@ -69,39 +83,24 @@
   </tr>
 </table>
 
-<!-- ═══════════════════ NOW PLAYING ═══════════════════ -->
 
-<table border="0" align="center">
+<table border="2" align="center">
+   <td width="700" align="center" valign="top">
+      <pre><code>Tools:</code></pre>
+<img src="https://skillicons.dev/icons?i=blender,ableton,obsidian&theme=dark" /> </td>
+<br />
     <td width="700" align="center" valign="top">
-      <pre><code>currently listening to:</code></pre>
+      <pre><code>IDE & Other:</code></pre>
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ytelpi2eb2ap5f53a3fihjfdq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&pro=true" alt="Now Playing">
-</a>
-</p>
-    </td>
-
-<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
-  <td width="700" align="center" valign="top">
-      <pre><code>contribution snake:
-generated from wizard-nazim's GitHub activity</code></pre>
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/wizard-nazim/wizard-nazim/output/wizard-nazim-snake-dark.svg"
-        />
-        <source
-          media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/wizard-nazim/wizard-nazim/output/wizard-nazim-snake.svg"
-        />
-        <img
-          src="https://raw.githubusercontent.com/wizard-nazim/wizard-nazim/output/wizard-nazim-snake-dark.svg"
-          alt="wizard-nazim contribution snake animation"
-        />
-      </picture>
-    </td>
-  </tr>
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,godot,unity&theme=dark" />
+<br /></p></td>
+ <td width="700" align="center" valign="top">
+      <pre><code>Daily Driver:</code></pre>
+      <img src="https://skillicons.dev/icons?i=arch,windows&theme=dark"/>
+ </td>
 </table>
+
+
 <table border="2" align="center">
    <td width="700" align="center" valign="top">
       <pre><code>Frontend:</code></pre>
