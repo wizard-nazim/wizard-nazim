@@ -5,15 +5,11 @@
       <div align="center" style="background: #0f172a; border: 2px solid #22d3ee; border-radius: 12px; padding: 16px; margin: 10px auto; max-width: 660px; box-shadow: 0 0 16px rgba(34, 211, 238, 0.2);">
         <div style="display: flex; align-items: center; justify-content: center; gap: 12px; margin-top: 12px;">
 
-
-
-
       https://desclution.vercel.app/
       
   </td>
   </tr>
 </table>
-
 <br>
 
 <table border="0" align="center">
@@ -197,3 +193,6 @@ mindmap
 </div>
 <br clear="both">
 -->
+
+  
+<iframe src="https://github.com/sponsors/wizard-nazim/button" title="Sponsor wizard-nazim" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
