@@ -1,17 +1,4 @@
 <!-- Original GitHub profile README by wizard-nazim | github.com/wizard-nazim -->
-
-<table border="0" align="center">
-  <tr>
-    <td width="700" align="center" valign="top">
-      <a href="https://desclution.vercel.app" target="_blank" rel="noopener noreferrer">
-        <img width="1600" height="520" alt="image" src="https://github.com/user-attachments/assets/49064c71-66fd-47cb-b9a8-5900b17b4914" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <table border="0" align="center">
   <tr>
     <td width="700" align="center" valign="top">
@@ -21,13 +8,6 @@
 
 
 
-
-
-
-
-    
-
-     
       https://desclution.vercel.app/
       
   </td>
