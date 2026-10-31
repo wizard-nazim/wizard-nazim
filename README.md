@@ -99,7 +99,7 @@ generated from wizard-nazim's GitHub activity</code></pre>
     <td width="700" align="center" valign="top">
       <pre><code>Infrastructure:</code></pre>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ubuntu,docker,nginx,bash,lua&theme=dark" alt="Linux, Docker, NGINX, Bash, Lua, and Grafana" />
+<img src="https://skillicons.dev/icons?i=docker,nginx,bash,lua&theme=dark" alt="Linux, Docker, NGINX, Bash, Lua, and Grafana" />
 <br /></p></td>
  <td width="700" align="center" valign="top">
       <pre><code>Backend & Database:</code></pre>
