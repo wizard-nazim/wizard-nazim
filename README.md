@@ -1,39 +1,22 @@
 <!-- Original GitHub profile README by wizard-nazim | github.com/wizard-nazim -->
-<!-- ═══════════════════ NOW PLAYING ═══════════════════ -->
-
 <table border="0" align="center">
+  <tr>
     <td width="700" align="center" valign="top">
-      <pre><code>currently listening to:</code></pre>
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ytelpi2eb2ap5f53a3fihjfdq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&pro=true" alt="Now Playing">
-</a>
-</p>
-    </td>
+      <div align="center" style="background: #0f172a; border: 2px solid #22d3ee; border-radius: 12px; padding: 16px; margin: 10px auto; max-width: 660px; box-shadow: 0 0 16px rgba(34, 211, 238, 0.2);">
+        <div style="display: flex; align-items: center; justify-content: center; gap: 12px; margin-top: 12px;">
 
-<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
-  <td width="700" align="center" valign="top">
-      <pre><code>contribution snake:
-generated from wizard-nazim's GitHub activity</code></pre>
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/wizard-nazim/wizard-nazim/output/wizard-nazim-snake-dark.svg"
-        />
-        <source
-          media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/wizard-nazim/wizard-nazim/output/wizard-nazim-snake.svg"
-        />
-        <img
-          src="https://raw.githubusercontent.com/wizard-nazim/wizard-nazim/output/wizard-nazim-snake-dark.svg"
-          alt="wizard-nazim contribution snake animation"
-        />
-      </picture>
-    </td>
+
+
+
+      https://desclution.vercel.app/
+      
+  </td>
   </tr>
 </table>
 
-<table border="1" align="center">
+<br>
+
+<table border="0" align="center">
   <tr>
     <td width="260" align="center" valign="top">
       <br>
@@ -68,6 +51,12 @@ generated from wizard-nazim's GitHub activity</code></pre>
 > Security & Networking Tools
 > Creative Tech — DAWs, UX/UI, Branding</code></pre>
 <br>
+<pre><code>engineering habits:
+> Build, lint & test checks on every push
+> GitHub Actions automation & CI before merge
+> Docs, diagrams & architecture notes
+> Projects fail loudly before production</code></pre>
+<br>
 <div align="center">
 <a href="https://git.io/streak-stats">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=wizard-nazim&theme=highcontrast&short_numbers=true&mode=weekly" alt="GitHub Streak" />
@@ -77,18 +66,42 @@ generated from wizard-nazim's GitHub activity</code></pre>
   </tr>
 </table>
 
+<!-- ═══════════════════ NOW PLAYING ═══════════════════ -->
 
-<table border="2" align="center">
+<br>
+<table border="0" align="center">
     <td width="700" align="center" valign="top">
-      <pre><code>IDE & Other:</code></pre>
+      <pre><code>currently listening to:</code></pre>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,obsidian&theme=dark" />
-<br /></p></td>
- <td width="700" align="center" valign="top">
-      <pre><code>Daily Driver:</code></pre>
-      <img src="https://skillicons.dev/icons?i=arch,windows,debian&theme=dark"/>
- </td>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ytelpi2eb2ap5f53a3fihjfdq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&pro=true" alt="Now Playing">
+</a>
+</p>
+    </td>
+
+<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
+  <td width="700" align="center" valign="top">
+      <pre><code>contribution snake:
+generated from wizard-nazim's GitHub activity</code></pre>
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/wizard-nazim/wizard-nazim/output/wizard-nazim-snake-dark.svg"
+        />
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/wizard-nazim/wizard-nazim/output/wizard-nazim-snake.svg"
+        />
+        <img
+          src="https://raw.githubusercontent.com/wizard-nazim/wizard-nazim/output/wizard-nazim-snake-dark.svg"
+          alt="wizard-nazim contribution snake animation"
+        />
+      </picture>
+    </td>
+  </tr>
 </table>
+<br>
+<br>
 
 
 <table border="2" align="center">
@@ -99,7 +112,7 @@ generated from wizard-nazim's GitHub activity</code></pre>
     <td width="700" align="center" valign="top">
       <pre><code>Infrastructure:</code></pre>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,nginx,bash,lua&theme=dark" alt="Linux, Docker, NGINX, Bash, Lua, and Grafana" />
+<img src="https://skillicons.dev/icons?i=arch,docker,nginx,bash,lua&theme=dark" alt="Linux, Docker, NGINX, Bash, Lua, and Grafana" />
 <br /></p></td>
  <td width="700" align="center" valign="top">
       <pre><code>Backend & Database:</code></pre>
