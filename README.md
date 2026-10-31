@@ -50,27 +50,15 @@
       <strong>wizard-nazim</strong><br>
       <code>full-stack dev</code>
       <br><br>
+      <img src="https://cdn.simpleicons.org/dotnet/22d3ee" width="24" alt=".NET" />
+      &nbsp;
+      <img src="https://cdn.simpleicons.org/react/22d3ee" width="24" alt="React" />
+      &nbsp;
+      <img src="https://cdn.simpleicons.org/linux/22d3ee" width="24" alt="Linux" />
+      <br /><br />
       <img
         src="https://komarev.com/ghpvc/?username=wizard-nazim&style=flat-square&color=b91c1c&label=%E2%97%8F%20Views&labelColor=27272a&logo=eye&logoColor=b91c1c"
         alt="wizard-nazim profile views"
-      />
-      <br><br>
-      <img
-        src="https://img.shields.io/github/followers/wizard-nazim?style=flat-square&label=Followers&labelColor=27272a&color=18181b&logo=github"
-        alt="wizard-nazim GitHub followers"
-      />
-      <img
-        src="https://img.shields.io/github/stars/wizard-nazim?affiliations=OWNER&style=flat-square&label=Stars&labelColor=27272a&color=18181b&logo=github"
-        alt="wizard-nazim GitHub stars"
-      />
-      <br><br>
-      <img src="https://cdn.simpleicons.org/dotnet/a1a1aa" height="16" title=".NET" alt=".NET" />&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/react/a1a1aa" height="16" title="React" alt="React" />&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/linux/a1a1aa" height="16" title="Linux" alt="Linux" />&nbsp;&nbsp;
-      <br><br>
-      <img
-        src="https://img.shields.io/badge/C%23-ASP.NET-512BD4?style=flat-square&logoColor=white"
-        alt="C# ASP.NET"
       />
     </td>
     <td width="440" align="left" valign="top">
@@ -140,15 +128,17 @@ generated from wizard-nazim's GitHub activity</code></pre>
 </table>
 <br>
 <br>
+
+
 <table border="2" align="center">
    <td width="700" align="center" valign="top">
       <pre><code>Frontend:</code></pre>
-<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,redux,ts,js,tailwind,vercel&theme=dark" alt="React, Next.js, Three.js, TypeScript, JavaScript, " /> </td>
+<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,ts,js,tailwind&theme=dark" alt="React, Next.js, Three.js, TypeScript, JavaScript, " /> </td>
 <br />
     <td width="700" align="center" valign="top">
       <pre><code>Infrastructure:</code></pre>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=arch,debian,docker,nginx,bash,lua,grafana&theme=dark" alt="Linux, Docker, NGINX, Bash, Lua, and Grafana" />
+<img src="https://skillicons.dev/icons?i=arch,debian,docker,nginx,bash,lua&theme=dark" alt="Linux, Docker, NGINX, Bash, Lua, and Grafana" />
 <br /></p></td>
  <td width="700" align="center" valign="top">
       <pre><code>Backend & Database:</code></pre>
