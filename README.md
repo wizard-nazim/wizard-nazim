@@ -133,7 +133,7 @@ generated from wizard-nazim's GitHub activity</code></pre>
 <table border="2" align="center">
    <td width="700" align="center" valign="top">
       <pre><code>Frontend:</code></pre>
-<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,ts,js,tailwind&theme=dark" alt="React, Three.js, TypeScript, JavaScript, " /> </td>
+<img src="https://skillicons.dev/icons?i=react,threejs,ts,js,tailwind&theme=dark" alt="React, Three.js, TypeScript, JavaScript, " /> </td>
 <br />
     <td width="700" align="center" valign="top">
       <pre><code>Infrastructure:</code></pre>
