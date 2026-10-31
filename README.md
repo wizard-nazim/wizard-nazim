@@ -79,10 +79,6 @@ generated from wizard-nazim's GitHub activity</code></pre>
 
 
 <table border="2" align="center">
-   <td width="700" align="center" valign="top">
-      <pre><code>Tools:</code></pre>
-<img src="https://skillicons.dev/icons?i=blender,ableton,obsidian&theme=dark" /> </td>
-<br />
     <td width="700" align="center" valign="top">
       <pre><code>IDE & Other:</code></pre>
 <p align="center">
@@ -90,7 +86,7 @@ generated from wizard-nazim's GitHub activity</code></pre>
 <br /></p></td>
  <td width="700" align="center" valign="top">
       <pre><code>Daily Driver:</code></pre>
-      <img src="https://skillicons.dev/icons?i=arch,windows&theme=dark"/>
+      <img src="https://skillicons.dev/icons?i=arch,windows,ubuntu&theme=dark"/>
  </td>
 </table>
 
