@@ -33,7 +33,7 @@ generated from wizard-nazim's GitHub activity</code></pre>
   </tr>
 </table>
 
-<table border="0" align="center">
+<table border="1" align="center">
   <tr>
     <td width="260" align="center" valign="top">
       <br>
@@ -67,12 +67,6 @@ generated from wizard-nazim's GitHub activity</code></pre>
 > Infrastructure & Linux Homelab
 > Security & Networking Tools
 > Creative Tech — DAWs, UX/UI, Branding</code></pre>
-<br>
-<pre><code>engineering habits:
-> Build, lint & test checks on every push
-> GitHub Actions automation & CI before merge
-> Docs, diagrams & architecture notes
-> Projects fail loudly before production</code></pre>
 <br>
 <div align="center">
 <a href="https://git.io/streak-stats">
