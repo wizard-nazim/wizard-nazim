@@ -82,11 +82,11 @@ generated from wizard-nazim's GitHub activity</code></pre>
     <td width="700" align="center" valign="top">
       <pre><code>IDE & Other:</code></pre>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,godot,unity&theme=dark" />
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,obsidian&theme=dark" />
 <br /></p></td>
  <td width="700" align="center" valign="top">
       <pre><code>Daily Driver:</code></pre>
-      <img src="https://skillicons.dev/icons?i=arch,windows,ubuntu&theme=dark"/>
+      <img src="https://skillicons.dev/icons?i=arch,windows,debian&theme=dark"/>
  </td>
 </table>
 
@@ -99,7 +99,7 @@ generated from wizard-nazim's GitHub activity</code></pre>
     <td width="700" align="center" valign="top">
       <pre><code>Infrastructure:</code></pre>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=debian,docker,nginx,bash,lua&theme=dark" alt="Linux, Docker, NGINX, Bash, Lua, and Grafana" />
+<img src="https://skillicons.dev/icons?i=ubuntu,docker,nginx,bash,lua&theme=dark" alt="Linux, Docker, NGINX, Bash, Lua, and Grafana" />
 <br /></p></td>
  <td width="700" align="center" valign="top">
       <pre><code>Backend & Database:</code></pre>
