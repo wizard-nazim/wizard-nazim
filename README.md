@@ -71,7 +71,6 @@
 
 <!-- ═══════════════════ NOW PLAYING ═══════════════════ -->
 
-<br>
 <table border="0" align="center">
     <td width="700" align="center" valign="top">
       <pre><code>currently listening to:</code></pre>
@@ -103,9 +102,6 @@ generated from wizard-nazim's GitHub activity</code></pre>
     </td>
   </tr>
 </table>
-<br>
-<br>
-
 <table border="2" align="center">
    <td width="700" align="center" valign="top">
       <pre><code>Frontend:</code></pre>
