@@ -133,12 +133,12 @@ generated from wizard-nazim's GitHub activity</code></pre>
 <table border="2" align="center">
    <td width="700" align="center" valign="top">
       <pre><code>Frontend:</code></pre>
-<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,ts,js,tailwind&theme=dark" alt="React, Next.js, Three.js, TypeScript, JavaScript, " /> </td>
+<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,ts,js,tailwind&theme=dark" alt="React, Three.js, TypeScript, JavaScript, " /> </td>
 <br />
     <td width="700" align="center" valign="top">
       <pre><code>Infrastructure:</code></pre>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=arch,debian,docker,nginx,bash,lua&theme=dark" alt="Linux, Docker, NGINX, Bash, Lua, and Grafana" />
+<img src="https://skillicons.dev/icons?i=arch,docker,nginx,bash,lua&theme=dark" alt="Linux, Docker, NGINX, Bash, Lua, and Grafana" />
 <br /></p></td>
  <td width="700" align="center" valign="top">
       <pre><code>Backend & Database:</code></pre>
