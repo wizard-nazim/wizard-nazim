@@ -1,19 +1,21 @@
 <!-- Original GitHub profile README by wizard-nazim | github.com/wizard-nazim -->
+
 <table border="2" align="center">
    <td width="700" align="center" valign="top">
-      <pre><code>Frontend:</code></pre>
-<img src="https://skillicons.dev/icons?i=react,threejs,ts,js,tailwind&theme=dark" alt="React, Three.js, TypeScript, JavaScript, " /> </td>
+      <pre><code>Tools:</code></pre>
+<img src="https://skillicons.dev/icons?i=blender,ableton,obsidian&theme=dark" /> </td>
 <br />
     <td width="700" align="center" valign="top">
-      <pre><code>Infrastructure:</code></pre>
+      <pre><code>IDE & Other:</code></pre>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=debian,docker,nginx,bash,lua&theme=dark" alt="Linux, Docker, NGINX, Bash, Lua, and Grafana" />
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,godot,unity&theme=dark" />
 <br /></p></td>
  <td width="700" align="center" valign="top">
-      <pre><code>Backend & Database:</code></pre>
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,postgresql,mongo&theme=dark" alt="C# and .NET" />
+      <pre><code>Daily Driver:</code></pre>
+      <img src="https://skillicons.dev/icons?i=arch,windows&theme=dark"/>
  </td>
 </table>
+
 
 <br>
 
@@ -104,20 +106,19 @@ generated from wizard-nazim's GitHub activity</code></pre>
 <br>
 <br>
 
-
 <table border="2" align="center">
    <td width="700" align="center" valign="top">
-      <pre><code>Tools:</code></pre>
-<img src="https://skillicons.dev/icons?i=blender,ableton,obsidian&theme=dark" /> </td>
+      <pre><code>Frontend:</code></pre>
+<img src="https://skillicons.dev/icons?i=react,threejs,ts,js,tailwind&theme=dark" alt="React, Three.js, TypeScript, JavaScript, " /> </td>
 <br />
     <td width="700" align="center" valign="top">
-      <pre><code>IDE & Other:</code></pre>
+      <pre><code>Infrastructure:</code></pre>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,godot,unity&theme=dark" />
+<img src="https://skillicons.dev/icons?i=debian,docker,nginx,bash,lua&theme=dark" alt="Linux, Docker, NGINX, Bash, Lua, and Grafana" />
 <br /></p></td>
  <td width="700" align="center" valign="top">
-      <pre><code>Daily Driver:</code></pre>
-      <img src="https://skillicons.dev/icons?i=arch,windows&theme=dark"/>
+      <pre><code>Backend & Database:</code></pre>
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,postgresql,mongo&theme=dark" alt="C# and .NET" />
  </td>
 </table>
 
@@ -186,6 +187,18 @@ mindmap
   </tr>
 </table>
 
+
+<table border="0" align="center">
+  <tr>
+    <td width="700" align="center" valign="top">
+      <div align="center" style="background: #0f172a; border: 2px solid #22d3ee; border-radius: 12px; padding: 16px; margin: 10px auto; max-width: 660px; box-shadow: 0 0 16px rgba(34, 211, 238, 0.2);">
+        <div style="display: flex; align-items: center; justify-content: center; gap: 12px; margin-top: 12px;">
+
+      https://desclution.vercel.app/
+      
+  </td>
+  </tr>
+</table>
 <!--
 <div align="center">
   <tr>
