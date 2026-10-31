@@ -58,7 +58,7 @@ generated from wizard-nazim's GitHub activity</code></pre>
         alt="wizard-nazim profile views"
       />
     </td>
-    <td width="140" align="left" valign="top">
+    <td width="440" align="left" valign="top">
       <br>
 
 <pre><code>curious about:
@@ -68,11 +68,10 @@ generated from wizard-nazim's GitHub activity</code></pre>
 > Security & Networking Tools
 > Creative Tech — DAWs, UX/UI, Branding</code></pre>
 <br>
-<td>
 <div align="center">
 <a href="https://git.io/streak-stats">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=wizard-nazim&theme=highcontrast&short_numbers=true&mode=weekly" alt="GitHub Streak" />
- </a></td>
+ </a>
       </div>
     </td>
   </tr>
