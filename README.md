@@ -76,7 +76,7 @@
   </tr>
 </table>
 
-<table border="0" align="right">
+<table border="1" align="right">
   <tr>
     <td width="70" align="center" valign="top">
       <div align="center">
@@ -85,8 +85,16 @@
         />
       </div>
     </td>
+    <td width="70" align="left" valign="top">
+      <div align="left">
+        <img
+          src="https://media.tenor.com/2QZoWoXJZIEAAAAj/silent-hill-disk.gif"
+          />
+      </div>
+    </td>
   </tr>
 </table>
+
 
 <!-- ═══════════════════ NOW PLAYING ═══════════════════ -->
 
