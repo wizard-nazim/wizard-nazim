@@ -10,7 +10,13 @@
 
       https://desclution.vercel.app/
       
+<div align="center">
+<a href="https://git.io/streak-stats">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=wizard-nazim&theme=highcontrast&short_numbers=true&mode=weekly" alt="GitHub Streak" />
+ </a>
+      </div>
   </td>
+  
   </tr>
 </table>
 
@@ -56,12 +62,7 @@
 > GitHub Actions automation & CI before merge
 > Docs, diagrams & architecture notes
 > Projects fail loudly before production</code></pre>
-<br>
-<div align="center">
-<a href="https://git.io/streak-stats">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=wizard-nazim&theme=highcontrast&short_numbers=true&mode=weekly" alt="GitHub Streak" />
- </a>
-      </div>
+<br> <!--    d-->
     </td>
   </tr>
 </table>
