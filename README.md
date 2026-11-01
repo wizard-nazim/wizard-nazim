@@ -141,8 +141,18 @@
   </tr>
 </table>
 <br>
-<br>
 
+<table border="2" align="center">
+    <td width="700" align="center" valign="top">
+      <pre><code>daily driver:</code></pre>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=arch,windows&theme=dark"/>
+<br /></p></td>
+ <td width="700" align="center" valign="top">
+      <pre><code>other:</code></pre>
+      <img src="https://skillicons.dev/icons?i=ableton,obsidian,vscode,visualstudio&theme=dark" />
+ </td>
+</table>
 
 <table border="2" align="center">
    <td width="700" align="center" valign="top">
@@ -160,17 +170,7 @@
  </td>
 </table>
 
-<table border="2" align="center">
-    <td width="700" align="center" valign="top">
-      <pre><code>daily driver:</code></pre>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=arch,windows&theme=dark"/>
-<br /></p></td>
- <td width="700" align="center" valign="top">
-      <pre><code>other:</code></pre>
-      <img src="https://skillicons.dev/icons?i=ableton,obsidian,vscode,visualstudio&theme=dark" />
- </td>
-</table>
+
 
 <!-- ═══════════════════ TECH MINDMAP ═══════════════════ -->
 
