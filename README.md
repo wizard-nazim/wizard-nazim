@@ -1,7 +1,7 @@
 <!-- Original GitHub profile README by wizard-nazim | github.com/wizard-nazim -->
-<table border="0" align="center">
+<table border=2" align="center">
   <tr>
-    <td width="700" align="center" valign="top">
+    <td width="400" align="center" valign="top">
       <div align="center" style="background: #0f172a; border: 2px solid #22d3ee; border-radius: 12px; padding: 16px; margin: 10px auto; max-width: 660px; box-shadow: 0 0 16px rgba(34, 211, 238, 0.2);">
         <div style="display: flex; align-items: center; justify-content: center; gap: 12px; margin-top: 12px;">
 
@@ -11,7 +11,11 @@
       https://desclution.vercel.app/
       
 <img width="300" height="120" alt="image" src="https://cdn.pfps.gg/banners/8859-elmo-s-hell-fire.gif" />
+<td>
 
+<img width="200" height="200" alt="image" src="https://media.tenor.com/d-HSksPE2dMAAAAj/cat-dance-happy-dance-cat.gif" />
+
+</td>
   </td>
   
   </tr>
