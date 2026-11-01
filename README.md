@@ -112,11 +112,23 @@ generated from wizard-nazim's GitHub activity</code></pre>
     <td width="700" align="center" valign="top">
       <pre><code>Infrastructure:</code></pre>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=arch,docker,nginx,bash,lua&theme=dark" alt="Linux, Docker, NGINX, Bash, Lua, and Grafana" />
+<img src="https://skillicons.dev/icons?i=debian,docker,nginx,bash,lua&theme=dark" alt="Linux, Docker, NGINX, Bash, Lua, and Grafana" />
 <br /></p></td>
  <td width="700" align="center" valign="top">
       <pre><code>Backend & Database:</code></pre>
       <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,postgresql,mongo&theme=dark" alt="C# and .NET" />
+ </td>
+</table>
+
+<table border="2" align="center">
+    <td width="700" align="center" valign="top">
+      <pre><code>Daily Driver:</code></pre>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=arch,ubuntu,windows&theme=dark"/>
+<br /></p></td>
+ <td width="700" align="center" valign="top">
+      <pre><code>Other::</code></pre>
+      <img src="https://skillicons.dev/icons?i=ableton,blender,obsidian&theme=dark" />
  </td>
 </table>
 
