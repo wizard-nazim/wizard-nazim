@@ -20,14 +20,13 @@
   
   </tr>
 </table>
-
 <table border="0" align="left">
   <tr>
     <td width="70" align="center" valign="top">
       <div align="center">
         <img
           src="https://media.tenor.com/d-HSksPE2dMAAAAj/cat-dance-happy-dance-cat.gif"
-          alt="disc gif"
+          alt="catgif"
         />
       </div>
     </td>
@@ -95,7 +94,19 @@
   </tr>
 </table>
 
-
+<table border="0" align="left">
+  <tr>
+    <td width="70" align="center" valign="top">
+      <div align="center">
+        <img
+          src="https://img1.picmix.com/output/stamp/normal/4/9/9/1/2381994_661e5.gif"
+          alt="catgif"
+        />
+      </div>
+    </td>
+  </tr>
+</table>
+<br>
 <!-- ═══════════════════ NOW PLAYING ═══════════════════ -->
 
 <br>
