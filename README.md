@@ -81,8 +81,7 @@
 
 <!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
   <td width="700" align="center" valign="top">
-      <pre><code>contribution snake:
-generated from wizard-nazim's GitHub activity</code></pre>
+      <pre><code>contribution snake:</code></pre>
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
