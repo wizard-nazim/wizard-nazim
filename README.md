@@ -94,19 +94,7 @@
   </tr>
 </table>
 
-<table border="0" align="left">
-  <tr>
-    <td width="70" align="center" valign="top">
-      <div align="center">
-        <img
-          src="https://img1.picmix.com/output/stamp/normal/4/9/9/1/2381994_661e5.gif"
-          alt="catgif"
-        />
-      </div>
-    </td>
-  </tr>
-</table>
-<br>
+
 <!-- ═══════════════════ NOW PLAYING ═══════════════════ -->
 
 <br>
@@ -140,7 +128,6 @@
     </td>
   </tr>
 </table>
-<br>
 
 <table border="2" align="center">
     <td width="700" align="center" valign="top">
@@ -170,7 +157,19 @@
  </td>
 </table>
 
-
+<table border="0" align="left">
+  <tr>
+    <td width="70" align="center" valign="top">
+      <div align="center">
+        <img
+          src="https://img1.picmix.com/output/stamp/normal/4/9/9/1/2381994_661e5.gif"
+          alt="catgif"
+        />
+      </div>
+    </td>
+  </tr>
+</table>
+<br>
 
 <!-- ═══════════════════ TECH MINDMAP ═══════════════════ -->
 
