@@ -88,7 +88,7 @@
     <td width="70" align="left" valign="top">
       <div align="left">
         <img
-          src="https://media.tenor.com/2QZoWoXJZIEAAAAj/silent-hill-disk.gif"
+          src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif"
           />
       </div>
     </td>
