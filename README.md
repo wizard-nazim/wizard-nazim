@@ -46,13 +46,6 @@
     </td>
     <td width="440" align="left" valign="top">
       <br>
-      <div align="center">
-       <img
-        src="https://komarev.com/ghpvc/?username=wizard-nazim&style=flat-square&color=b91c1c&label=%E2%97%8F%20Views&labelColor=27272a&logo=eye&logoColor=b91c1c"
-        alt="wizard-nazim profile views"
-      />
-      </div>
-      <br>
 
 <pre><code>curious about:
 > System Architecture & Clean Boundaries
@@ -200,7 +193,12 @@ mindmap
     </td>
   </tr>
 </table>
-
+      <div align="center">
+       <img
+        src="https://komarev.com/ghpvc/?username=wizard-nazim&style=flat-square&color=b91c1c&label=%E2%97%8F%20Views&labelColor=27272a&logo=eye&logoColor=b91c1c"
+        alt="wizard-nazim profile views"
+      />
+      </div>
 <!--
 <div align="center">
   <tr>
