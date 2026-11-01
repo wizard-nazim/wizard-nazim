@@ -13,7 +13,7 @@
 <img width="300" height="120" alt="image" src="https://cdn.pfps.gg/banners/8859-elmo-s-hell-fire.gif" />
 <td>
 
-<img width="200" height="200" alt="image" src="https://media.tenor.com/d-HSksPE2dMAAAAj/cat-dance-happy-dance-cat.gif" />
+<img width="200" height="200" alt="image" src="https://64.media.tumblr.com/6da0d4558ef3317ed4e025d57b81747e/8b7c3064577d5057-e6/s1280x1920/12b2ca8ef552a665f1138cc05c24f1a8b86f3953.gif" />
 
 </td>
   </td>
@@ -26,7 +26,7 @@
     <td width="70" align="center" valign="top">
       <div align="center">
         <img
-          src="https://i.pinimg.com/originals/9c/e9/c2/9ce9c25f059ea8002b7b0bff1dc552c1.gif"
+          src="https://media.tenor.com/d-HSksPE2dMAAAAj/cat-dance-happy-dance-cat.gif"
           alt="disc gif"
         />
       </div>
