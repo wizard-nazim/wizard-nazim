@@ -21,6 +21,18 @@
   </tr>
 </table>
 
+<table border="0" align="left">
+  <tr>
+    <td width="70" align="center" valign="top">
+      <div align="center">
+        <img
+          src="https://media.tenor.com/6ipymhHEPMMAAAAj/cd-disk-disk.gif"
+          alt="Rajinikanth gif"
+        />
+      </div>
+    </td>
+  </tr>
+</table>
 <br>
 
 <table border="0" align="center">
