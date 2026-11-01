@@ -10,11 +10,7 @@
 
       https://desclution.vercel.app/
       
-<div align="center">
-<a href="https://git.io/streak-stats">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=wizard-nazim&theme=highcontrast&short_numbers=true&mode=weekly" alt="GitHub Streak" />
- </a>
-      </div>
+
   </td>
   
   </tr>
@@ -42,12 +38,15 @@
       &nbsp;
       <img src="https://cdn.simpleicons.org/linux/22d3ee" width="24" alt="Linux" />
       <br /><br />
-      <img
+    </td>
+    <td width="440" align="left" valign="top">
+      <br>
+      <div align="center">
+       <img
         src="https://komarev.com/ghpvc/?username=wizard-nazim&style=flat-square&color=b91c1c&label=%E2%97%8F%20Views&labelColor=27272a&logo=eye&logoColor=b91c1c"
         alt="wizard-nazim profile views"
       />
-    </td>
-    <td width="440" align="left" valign="top">
+      </div>
       <br>
 
 <pre><code>curious about:
@@ -57,12 +56,12 @@
 > Security & Networking Tools
 > Creative Tech — DAWs, UX/UI, Branding</code></pre>
 <br>
-<pre><code>engineering habits:
-> Build, lint & test checks on every push
-> GitHub Actions automation & CI before merge
-> Docs, diagrams & architecture notes
-> Projects fail loudly before production</code></pre>
-<br> <!--    d-->
+<div align="center">
+  
+<a href="https://git.io/streak-stats">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=wizard-nazim&theme=highcontrast&short_numbers=true&mode=weekly" alt="GitHub Streak" />
+ </a>
+      </div>
     </td>
   </tr>
 </table>
