@@ -128,7 +128,7 @@ generated from wizard-nazim's GitHub activity</code></pre>
 <br /></p></td>
  <td width="700" align="center" valign="top">
       <pre><code>Other:</code></pre>
-      <img src="https://skillicons.dev/icons?i=ableton,blender,obsidian,vscode,visualstudio&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=ableton,obsidian,vscode,visualstudio&theme=dark" />
  </td>
 </table>
 
