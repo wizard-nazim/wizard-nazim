@@ -26,8 +26,8 @@
     <td width="70" align="center" valign="top">
       <div align="center">
         <img
-          src="https://media.tenor.com/6ipymhHEPMMAAAAj/cd-disk-disk.gif"
-          alt="Rajinikanth gif"
+          src="https://i.pinimg.com/originals/9c/e9/c2/9ce9c25f059ea8002b7b0bff1dc552c1.gif"
+          alt="disc gif"
         />
       </div>
     </td>
@@ -71,6 +71,18 @@
 <a href="https://git.io/streak-stats">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=wizard-nazim&theme=highcontrast&short_numbers=true&mode=weekly" alt="GitHub Streak" />
  </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<table border="0" align="right">
+  <tr>
+    <td width="70" align="center" valign="top">
+      <div align="center">
+        <img
+          src="https://img1.picmix.com/output/stamp/normal/7/1/5/8/2838517_72486.gif"
+        />
       </div>
     </td>
   </tr>
