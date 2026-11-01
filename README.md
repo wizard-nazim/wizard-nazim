@@ -105,28 +105,28 @@
 
 <table border="2" align="center">
    <td width="700" align="center" valign="top">
-      <pre><code>Frontend:</code></pre>
+      <pre><code>frontend:</code></pre>
 <img src="https://skillicons.dev/icons?i=react,threejs,ts,js,tailwind&theme=dark" alt="React, Three.js, TypeScript, JavaScript, " /> </td>
 <br />
     <td width="700" align="center" valign="top">
-      <pre><code>Infrastructure:</code></pre>
+      <pre><code>infrastructure:</code></pre>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=debian,docker,nginx,bash,lua&theme=dark" alt="Linux, Docker, NGINX, Bash, Lua, and Grafana" />
 <br /></p></td>
  <td width="700" align="center" valign="top">
-      <pre><code>Backend & Database:</code></pre>
+      <pre><code>backend & database:</code></pre>
       <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,postgresql,mongo&theme=dark" alt="C# and .NET" />
  </td>
 </table>
 
 <table border="2" align="center">
     <td width="700" align="center" valign="top">
-      <pre><code>Daily Driver:</code></pre>
+      <pre><code>daily driver:</code></pre>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=arch,windows&theme=dark"/>
 <br /></p></td>
  <td width="700" align="center" valign="top">
-      <pre><code>Other:</code></pre>
+      <pre><code>other:</code></pre>
       <img src="https://skillicons.dev/icons?i=ableton,obsidian,vscode,visualstudio&theme=dark" />
  </td>
 </table>
