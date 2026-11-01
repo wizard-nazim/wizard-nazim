@@ -124,11 +124,11 @@ generated from wizard-nazim's GitHub activity</code></pre>
     <td width="700" align="center" valign="top">
       <pre><code>Daily Driver:</code></pre>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=arch,ubuntu,windows&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=arch,windows&theme=dark"/>
 <br /></p></td>
  <td width="700" align="center" valign="top">
-      <pre><code>Other::</code></pre>
-      <img src="https://skillicons.dev/icons?i=ableton,blender,obsidian&theme=dark" />
+      <pre><code>Other:</code></pre>
+      <img src="https://skillicons.dev/icons?i=ableton,blender,obsidian,vs,vscode&theme=dark" />
  </td>
 </table>
 
