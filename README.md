@@ -2,7 +2,7 @@
 <table border=2" align="center">
   <tr>
     <td width="400" align="center" valign="top">
-      <div align="center" style="background: #0f172a; border: 2px solid #22d3ee; border-radius: 12px; padding: 16px; margin: 10px auto; max-width: 660px; box-shadow: 0 0 16px rgba(34, 211, 238, 0.2);">
+      <div align="center" style="background: #0f172a; border: 2px solid #22d3ee; border-radius: 12px; padding: 16px; margin: 10px auto; max-width: 660px; box-shadow: 0 0 16px rgba(34, 211, 238, 0.2);"[...]
         <div style="display: flex; align-items: center; justify-content: center; gap: 12px; margin-top: 12px;">
 
 
@@ -103,7 +103,7 @@
       <pre><code>currently listening to:</code></pre>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ytelpi2eb2ap5f53a3fihjfdq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&pro=true" alt="Now Playing">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ytelpi2eb2ap5f53a3fihjfdq&cover_image=true&theme=novatorem&show_offline=true&show_last=true&background_color=121212&interchange=true&pro=true" alt="spotify now playing" />
 </a>
 </p>
     </td>
@@ -253,3 +253,4 @@ mindmap
 </div>
 <br clear="both">
 -->
+
