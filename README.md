@@ -143,8 +143,8 @@
 
 <br>
 <div align="center">
-<img width="150" height="150" alt="salam" src="https://github.com/user-attachments/assets/e9e42a12-b891-456e-a9af-269ea780227c" />
- <img width="150" height="150" alt="wizardgreet" src="https://img1.picmix.com/output/stamp/thumb/8/2/1/6/1996128_93c0e.gif" />
+<img width="200" height="190" alt="salam" src="https://github.com/user-attachments/assets/e9e42a12-b891-456e-a9af-269ea780227c" />
+ <img width="200" height="190" alt="wizardgreet" src="https://gifgifs.com/animations/creatures-cartoons/wizards/Green_wizard.gif" />
   </div>
 <br>
 
