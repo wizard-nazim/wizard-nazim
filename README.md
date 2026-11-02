@@ -94,7 +94,16 @@
   </tr>
 </table>
 
-
+<table border="1" align="right"> 
+  <tr>
+    <td width="70" align="center" valign="top">
+      <div align="center">
+        <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fflame-gif%2F940598651399%2F&ved=0CBcQjRxqGAoTCPiCnrmP6JcDFQAAAAAdAAAAABCOAg&opi=89978449"/>
+      </div>
+    </td>
+  </tr>
+</table>
+      
 <!-- ═══════════════════ NOW PLAYING ═══════════════════ -->
 
 <br>
