@@ -141,6 +141,13 @@
  </td>
 </table>
 
+<br>
+<div align="center">
+<img width="200" height="190" alt="salam" src="https://github.com/user-attachments/assets/e9e42a12-b891-456e-a9af-269ea780227c" />
+ <img width="200" height="190" alt="wizardgreet" src="https://gifgifs.com/animations/creatures-cartoons/wizards/Green_wizard.gif" />
+  </div>
+<br>
+
 <table border="2" align="center">
    <td width="700" align="center" valign="top">
       <pre><code>frontend:</code></pre>
