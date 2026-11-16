@@ -1,3 +1,4 @@
+
 <!-- Original GitHub profile README by wizard-nazim | github.com/wizard-nazim -->
 <table border=2" align="center">
   <tr>
@@ -264,4 +265,14 @@ mindmap
 </div>
 <br clear="both">
 -->
-
+<br>
+<td width="700" align="center" valign="top">
+  <pre><code>koi pond:</code></pre>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/wizard-nazim/wizard-nazim/output/koi-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/wizard-nazim/wizard-nazim/output/koi.svg" />
+    <img src="https://raw.githubusercontent.com/wizard-nazim/wizard-nazim/output/koi.svg"/>
+  </picture>
+</td>
